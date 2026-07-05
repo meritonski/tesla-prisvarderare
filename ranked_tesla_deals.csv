@@ -1,98 +1,98 @@
 scraped_at,model,variant,title_text,url,price_sek,year,mileage_km,source,status,price_rank,mileage_rank,year_rank,deal_score
-2026-06-30T21:15:21,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23771811,489800,2025,48280,Blocket,active_or_seen,1.0,2.0,1.5,1.4000000000000001
-2026-06-30T21:17:43,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24260789,609800,2025,44980,Blocket,active_or_seen,2.0,1.0,1.5,1.6
-2026-06-30T21:15:47,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23936232,414900,2024,88240,Blocket,active_or_seen,1.0,2.0,3.5,1.8000000000000003
-2026-06-30T21:15:00,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24297009,417900,2024,67120,Blocket,active_or_seen,2.0,1.0,3.5,2.0
-2026-06-30T21:16:18,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23851606,334900,2023,134400,Blocket,active_or_seen,1.0,19.0,14.0,9.0
-2026-06-30T21:14:39,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/22822818,369500,2023,82040,Blocket,active_or_seen,6.0,11.0,14.0,9.1
-2026-06-30T21:18:30,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/20821560,339800,2023,132040,Blocket,active_or_seen,2.0,18.0,14.0,9.2
-2026-06-30T21:17:59,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24259397,349700,2023,112740,Blocket,active_or_seen,3.0,17.0,14.0,9.4
-2026-06-30T21:16:39,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24434124,358700,2023,98070,Blocket,active_or_seen,4.5,15.0,14.0,9.55
-2026-06-30T21:15:10,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24444815,319800,2022,108480,Blocket,active_or_seen,2.0,9.0,30.0,9.7
-2026-06-30T21:16:29,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24273995,358700,2023,101650,Blocket,active_or_seen,4.5,16.0,14.0,9.85
-2026-06-30T21:17:48,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24099617,398700,2023,52670,Blocket,active_or_seen,11.0,6.0,14.0,10.1
-2026-06-30T21:17:11,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24432055,369800,2023,91840,Blocket,active_or_seen,7.0,13.0,14.0,10.200000000000001
-2026-06-30T21:15:42,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23749229,379700,2023,78380,Blocket,active_or_seen,9.0,10.0,14.0,10.3
-2026-06-30T21:17:00,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24433229,309800,2022,149820,Blocket,active_or_seen,1.0,13.0,30.0,10.4
-2026-06-30T21:18:14,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23800539,329800,2022,100210,Blocket,active_or_seen,4.5,8.0,30.0,10.65
-2026-06-30T21:16:55,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24433230,328900,2022,120930,Blocket,active_or_seen,3.0,11.0,30.0,10.8
-2026-06-30T21:15:05,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24127547,409800,2023,52780,Blocket,active_or_seen,12.0,7.0,14.0,10.9
-2026-06-30T21:18:04,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24420269,378990,2023,95820,Blocket,active_or_seen,8.0,14.0,14.0,11.0
-2026-06-30T21:16:24,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24415618,419700,2023,43770,Blocket,active_or_seen,14.0,5.0,14.0,11.3
-2026-06-30T21:17:06,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24432796,381990,2023,82240,Blocket,active_or_seen,10.0,12.0,14.0,11.4
-2026-06-30T21:17:33,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/17764159,318900,2021,100390,Blocket,active_or_seen,2.0,7.0,42.5,11.6
-2026-06-30T21:17:38,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24128957,344800,2022,98390,Blocket,active_or_seen,7.0,7.0,30.0,11.6
-2026-06-30T21:16:03,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24127607,359800,2022,72780,Blocket,active_or_seen,8.0,6.0,30.0,11.8
-2026-06-30T21:15:37,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24139063,329800,2022,121060,Blocket,active_or_seen,4.5,12.0,30.0,11.85
-2026-06-30T21:15:15,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23830784,434900,2023,36910,Blocket,active_or_seen,16.0,4.0,14.0,12.0
-2026-06-30T21:15:31,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24443016,415990,2023,68540,Blocket,active_or_seen,13.0,9.0,14.0,12.0
-2026-06-30T21:16:13,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24169902,329900,2022,117550,Blocket,active_or_seen,6.0,10.0,30.0,12.0
-2026-06-30T21:18:25,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24128763,364800,2022,67410,Blocket,active_or_seen,9.0,5.0,30.0,12.0
-2026-06-30T21:14:44,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24125660,369800,2022,61270,Blocket,active_or_seen,10.0,4.0,30.0,12.2
-2026-06-30T21:15:52,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24440633,439700,2023,28150,Blocket,active_or_seen,17.0,3.0,14.0,12.200000000000001
-2026-06-30T21:16:50,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23725167,304800,2021,122890,Blocket,active_or_seen,1.0,11.0,42.5,12.3
-2026-06-30T21:14:54,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24445134,375000,2022,58200,Blocket,active_or_seen,11.0,3.0,30.0,12.4
-2026-06-30T21:18:20,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23783959,449800,2023,22540,Blocket,active_or_seen,18.0,2.0,14.0,12.4
-2026-06-30T21:14:33,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23093527,384900,2022,54410,Blocket,active_or_seen,12.0,2.0,30.0,12.6
-2026-06-30T21:15:26,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23618597,479800,2023,1790,Blocket,active_or_seen,19.0,1.0,14.0,12.600000000000001
-2026-06-30T21:16:45,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23725162,319800,2021,101780,Blocket,active_or_seen,3.5,8.0,42.5,12.65
-2026-06-30T21:17:27,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24126184,429800,2023,59810,Blocket,active_or_seen,15.0,8.0,14.0,12.700000000000001
-2026-06-30T21:14:23,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23941772,394900,2022,52350,Blocket,active_or_seen,13.0,1.0,30.0,12.8
-2026-06-30T21:17:54,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23103972,324800,2021,106540,Blocket,active_or_seen,5.0,9.0,42.5,13.7
-2026-06-30T21:14:28,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23926336,334800,2021,93910,Blocket,active_or_seen,7.0,6.0,42.5,13.8
-2026-06-30T21:16:34,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23170152,319800,2021,128340,Blocket,active_or_seen,3.5,12.0,42.5,13.85
-2026-06-30T21:17:22,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24128295,338900,2021,81500,Blocket,active_or_seen,8.0,5.0,42.5,14.0
-2026-06-30T21:16:08,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23000602,349700,2021,76200,Blocket,active_or_seen,9.0,4.0,42.5,14.2
-2026-06-30T21:17:17,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24126453,354700,2021,64510,Blocket,active_or_seen,10.0,3.0,42.5,14.4
-2026-06-30T21:14:49,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24125808,329800,2021,107170,Blocket,active_or_seen,6.0,10.0,42.5,14.5
-2026-06-30T21:15:58,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24293181,379800,2021,52670,Blocket,active_or_seen,11.0,2.0,42.5,14.6
-2026-06-30T21:18:09,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23552857,384800,2021,49200,Blocket,active_or_seen,12.0,1.0,42.5,14.8
-2026-06-30T21:10:25,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24417008,720000,2026,650,Blocket,active_or_seen,1.0,1.0,1.0,1.0
-2026-06-30T21:13:03,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24339697,418900,2024,70260,Blocket,active_or_seen,1.0,6.0,5.5,3.4
-2026-06-30T21:11:02,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23807259,478700,2024,41610,Blocket,active_or_seen,5.0,1.0,5.5,3.9
-2026-06-30T21:13:24,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/22594779,424800,2024,83340,Blocket,active_or_seen,2.0,7.0,5.5,4.2
-2026-06-30T21:11:54,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24360558,459900,2024,68300,Blocket,active_or_seen,4.0,5.0,5.5,4.6
-2026-06-30T21:10:04,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24436105,446990,2024,101600,Blocket,active_or_seen,3.0,8.0,5.5,5.0
-2026-06-30T21:13:13,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23800448,479800,2024,47900,Blocket,active_or_seen,6.0,3.0,5.5,5.0
-2026-06-30T21:11:07,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23836520,479900,2024,47000,Blocket,active_or_seen,7.0,2.0,5.5,5.199999999999999
-2026-06-30T21:13:19,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24335336,484900,2024,61140,Blocket,active_or_seen,8.0,4.0,5.5,6.300000000000001
-2026-06-30T21:10:41,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24269779,398800,2023,74730,Blocket,active_or_seen,7.0,12.0,21.5,11.399999999999999
-2026-06-30T21:09:37,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/17735343,390000,2023,84000,Blocket,active_or_seen,5.0,17.0,21.5,11.899999999999999
-2026-06-30T21:10:51,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24245649,354700,2023,128860,Blocket,active_or_seen,1.0,24.0,21.5,12.0
-2026-06-30T21:12:26,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24351463,364900,2023,121450,Blocket,active_or_seen,2.0,23.0,21.5,12.2
-2026-06-30T21:11:39,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23414480,378900,2023,92210,Blocket,active_or_seen,3.0,22.0,21.5,12.399999999999999
-2026-06-30T21:12:31,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/22765648,389800,2023,89210,Blocket,active_or_seen,4.0,21.0,21.5,12.600000000000001
-2026-06-30T21:12:15,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23847634,394800,2023,84140,Blocket,active_or_seen,6.0,18.0,21.5,12.7
-2026-06-30T21:13:35,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/19249622,349800,2022,106890,Blocket,active_or_seen,3.0,12.0,41.5,13.4
-2026-06-30T21:11:17,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24246231,399800,2023,78750,Blocket,active_or_seen,10.5,13.0,21.5,13.45
-2026-06-30T21:12:47,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23492106,324900,2022,141940,Blocket,active_or_seen,1.0,16.0,41.5,13.600000000000001
-2026-06-30T21:12:58,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23989348,399800,2023,80070,Blocket,active_or_seen,10.5,14.0,21.5,13.75
-2026-06-30T21:11:33,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24368347,325000,2022,127880,Blocket,active_or_seen,2.0,15.0,41.5,13.8
-2026-06-30T21:10:14,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/22241669,368700,2022,80840,Blocket,active_or_seen,7.0,7.0,41.5,13.9
-2026-06-30T21:09:48,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24446532,423990,2023,48770,Blocket,active_or_seen,17.0,4.0,21.5,14.0
-2026-06-30T21:11:12,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24193421,399500,2023,87950,Blocket,active_or_seen,8.0,19.0,21.5,14.0
-2026-06-30T21:10:46,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24149834,399800,2023,82970,Blocket,active_or_seen,10.5,15.0,21.5,14.05
-2026-06-30T21:12:37,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24126291,359800,2022,98780,Blocket,active_or_seen,5.5,10.0,41.5,14.05
-2026-06-30T21:13:50,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24308111,405000,2023,67000,Blocket,active_or_seen,14.0,10.0,21.5,14.3
-2026-06-30T21:09:43,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23375650,419800,2023,61920,Blocket,active_or_seen,15.0,9.0,21.5,14.5
-2026-06-30T21:12:05,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23562599,354800,2022,114400,Blocket,active_or_seen,4.0,14.0,41.5,14.5
-2026-06-30T21:13:40,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/22827786,359800,2022,114170,Blocket,active_or_seen,5.5,13.0,41.5,14.950000000000001
-2026-06-30T21:13:29,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24126901,409800,2022,55500,Blocket,active_or_seen,12.0,3.0,41.5,15.200000000000001
-2026-06-30T21:11:23,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23996309,465000,2023,22490,Blocket,active_or_seen,21.5,1.0,21.5,15.350000000000001
-2026-06-30T21:11:49,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23655477,374900,2022,87850,Blocket,active_or_seen,9.0,9.0,41.5,15.5
-2026-06-30T21:13:45,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24314789,399800,2023,89170,Blocket,active_or_seen,10.5,20.0,21.5,15.55
-2026-06-30T21:09:58,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24443898,449000,2023,49500,Blocket,active_or_seen,19.0,6.0,21.5,15.600000000000001
-2026-06-30T21:10:30,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24416506,422990,2023,68050,Blocket,active_or_seen,16.0,11.0,21.5,15.600000000000001
-2026-06-30T21:12:10,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23773262,399700,2022,62330,Blocket,active_or_seen,11.0,6.0,41.5,15.600000000000001
-2026-06-30T21:12:21,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23615967,368900,2022,103990,Blocket,active_or_seen,8.0,11.0,41.5,15.600000000000001
-2026-06-30T21:12:42,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23651467,404800,2023,83020,Blocket,active_or_seen,13.0,16.0,21.5,15.600000000000001
-2026-06-30T21:11:28,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24200332,465000,2023,30000,Blocket,active_or_seen,21.5,2.0,21.5,15.649999999999999
-2026-06-30T21:09:53,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24446527,429900,2023,54710,Blocket,active_or_seen,18.0,8.0,21.5,15.7
-2026-06-30T21:10:35,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24416510,393990,2022,85860,Blocket,active_or_seen,10.0,8.0,41.5,15.700000000000001
-2026-06-30T21:10:20,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24425434,409900,2022,57700,Blocket,active_or_seen,13.0,4.0,41.5,16.0
-2026-06-30T21:13:08,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23433839,414800,2022,41570,Blocket,active_or_seen,14.5,2.0,41.5,16.15
-2026-06-30T21:11:44,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24258600,454900,2023,52370,Blocket,active_or_seen,20.0,7.0,21.5,16.4
-2026-06-30T21:10:57,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24266846,424900,2022,39610,Blocket,active_or_seen,16.0,1.0,41.5,16.6
-2026-06-30T21:12:00,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23679506,414800,2022,60060,Blocket,active_or_seen,14.5,5.0,41.5,17.05
-2026-06-30T21:10:09,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24436102,479990,2023,39380,Blocket,active_or_seen,24.0,3.0,21.5,17.2
-2026-06-30T21:12:52,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24344048,470990,2023,48880,Blocket,active_or_seen,23.0,5.0,21.5,17.3
+2026-07-05T15:36:51,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24530944,649000,2025,5000,market,active_or_seen,2.0,1.0,2.0,1.7000000000000002
+2026-07-05T15:36:10,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23048443,469900,2025,41740,market,active_or_seen,1.0,3.0,2.0,1.7999999999999998
+2026-07-05T15:36:26,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23749698,649800,2025,21970,market,active_or_seen,3.0,2.0,2.0,2.5
+2026-07-05T15:37:13,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24521340,374900,2024,105000,market,active_or_seen,1.0,6.0,6.5,3.5999999999999996
+2026-07-05T15:37:16,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24521235,384900,2024,92000,market,active_or_seen,2.0,5.0,6.5,3.8
+2026-07-05T15:37:22,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24521103,394900,2024,71000,market,active_or_seen,3.0,4.0,6.5,4.0
+2026-07-05T15:37:55,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23387685,418700,2024,69980,market,active_or_seen,4.0,3.0,6.5,4.2
+2026-07-05T15:37:00,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24502010,479000,2024,48260,market,active_or_seen,5.0,2.0,6.5,4.4
+2026-07-05T15:37:47,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24516081,489000,2024,20340,market,active_or_seen,6.0,1.0,6.5,4.6
+2026-07-05T15:37:41,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24517779,314800,2023,75300,market,active_or_seen,1.0,7.0,18.0,6.2
+2026-07-05T15:36:35,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24535860,324900,2023,121670,market,active_or_seen,2.0,14.0,18.0,8.8
+2026-07-05T15:37:33,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24519917,319700,2022,127320,market,active_or_seen,1.0,8.0,31.0,9.1
+2026-07-05T15:36:29,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/21056242,374800,2022,44850,market,active_or_seen,6.0,2.0,31.0,9.8
+2026-07-05T15:37:58,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24515025,329800,2022,116480,market,active_or_seen,3.0,7.0,31.0,9.8
+2026-07-05T15:36:07,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/22825422,319800,2022,139150,market,active_or_seen,2.0,9.0,31.0,9.9
+2026-07-05T15:37:30,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24519953,384600,2023,72680,market,active_or_seen,9.0,6.0,18.0,9.9
+2026-07-05T15:35:50,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24247410,334800,2022,100300,market,active_or_seen,4.0,6.0,31.0,10.0
+2026-07-05T15:37:52,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23778424,339700,2023,126340,market,active_or_seen,4.0,15.0,18.0,10.1
+2026-07-05T15:37:38,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24409384,368700,2022,83370,market,active_or_seen,5.0,5.0,31.0,10.2
+2026-07-05T15:37:24,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24520617,389900,2023,62390,market,active_or_seen,11.0,4.0,18.0,10.3
+2026-07-05T15:36:43,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23988219,339700,2023,126780,market,active_or_seen,4.0,16.0,18.0,10.4
+2026-07-05T15:37:27,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24520282,369900,2023,87650,market,active_or_seen,7.0,11.0,18.0,10.4
+2026-07-05T15:36:40,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23561588,358800,2023,106650,market,active_or_seen,6.0,13.0,18.0,10.5
+2026-07-05T15:37:19,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24362394,339700,2023,128800,market,active_or_seen,4.0,17.0,18.0,10.7
+2026-07-05T15:36:54,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23488659,384700,2022,57960,market,active_or_seen,7.0,4.0,31.0,10.9
+2026-07-05T15:35:56,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24127973,398800,2022,34040,market,active_or_seen,9.0,1.0,31.0,11.0
+2026-07-05T15:36:01,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23048035,399800,2023,62340,market,active_or_seen,13.0,3.0,18.0,11.0
+2026-07-05T15:36:16,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24552968,388900,2023,76610,market,active_or_seen,10.0,8.0,18.0,11.0
+2026-07-05T15:36:12,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24553120,393900,2023,69200,market,active_or_seen,12.0,5.0,18.0,11.1
+2026-07-05T15:37:10,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24151964,388700,2022,53360,market,active_or_seen,8.0,3.0,31.0,11.100000000000001
+2026-07-05T15:36:04,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23538632,379900,2023,92340,market,active_or_seen,8.0,12.0,18.0,11.2
+2026-07-05T15:36:57,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23594195,419700,2023,46530,market,active_or_seen,16.0,1.0,18.0,11.9
+2026-07-05T15:37:05,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24526888,421990,2023,54820,market,active_or_seen,17.0,2.0,18.0,12.7
+2026-07-05T15:37:44,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24348671,278900,2021,171990,market,active_or_seen,1.0,13.0,42.0,12.8
+2026-07-05T15:37:08,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24125733,299800,2021,147860,market,active_or_seen,2.0,12.0,42.0,13.0
+2026-07-05T15:35:48,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24520515,314800,2021,113570,market,active_or_seen,4.0,9.0,42.0,13.1
+2026-07-05T15:36:37,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/20547627,309800,2021,128920,market,active_or_seen,3.0,11.0,42.0,13.2
+2026-07-05T15:36:18,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24151460,324800,2021,112710,market,active_or_seen,5.5,8.0,42.0,13.55
+2026-07-05T15:36:21,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24126682,399900,2023,81950,market,active_or_seen,14.0,10.0,18.0,13.6
+2026-07-05T15:36:32,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/22031789,344800,2021,64740,market,active_or_seen,10.0,1.0,42.0,13.7
+2026-07-05T15:37:35,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24519885,401990,2023,77570,market,active_or_seen,15.0,9.0,18.0,13.799999999999999
+2026-07-05T15:36:46,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23463480,334700,2021,92490,market,active_or_seen,8.0,5.0,42.0,13.9
+2026-07-05T15:36:24,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24246544,329800,2021,102140,market,active_or_seen,7.0,7.0,42.0,14.0
+2026-07-05T15:35:59,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24389849,324800,2021,119730,market,active_or_seen,5.5,10.0,42.0,14.15
+2026-07-05T15:36:48,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24240295,339800,2021,99250,market,active_or_seen,9.0,6.0,42.0,14.7
+2026-07-05T15:37:49,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23602135,349800,2021,76800,market,active_or_seen,11.0,3.0,42.0,14.8
+2026-07-05T15:37:02,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24347383,349900,2021,72360,market,active_or_seen,12.5,2.0,42.0,15.25
+2026-07-05T15:35:53,Tesla Model Y,Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24272935,349900,2021,89570,market,active_or_seen,12.5,4.0,42.0,15.850000000000001
+2026-07-05T15:33:31,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24417008,720000,2026,650,market,active_or_seen,1.0,1.0,1.0,1.0
+2026-07-05T15:33:36,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23932712,499000,2025,40820,market,active_or_seen,1.0,1.0,2.0,1.2000000000000002
+2026-07-05T15:34:01,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23800448,468900,2024,47900,market,active_or_seen,3.0,4.5,7.0,4.25
+2026-07-05T15:35:06,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23750061,469000,2024,46870,market,active_or_seen,4.5,2.0,7.0,4.25
+2026-07-05T15:34:20,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512342,454990,2024,90690,market,active_or_seen,1.0,9.0,7.0,4.6
+2026-07-05T15:33:33,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24562132,474900,2024,39890,market,active_or_seen,6.0,1.0,7.0,4.7
+2026-07-05T15:33:58,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24523830,462990,2024,72330,market,active_or_seen,2.0,8.0,7.0,4.8
+2026-07-05T15:33:39,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23536396,469000,2024,47900,market,active_or_seen,4.5,4.5,7.0,5.0
+2026-07-05T15:34:39,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23836520,479900,2024,47000,market,active_or_seen,8.0,3.0,7.0,6.300000000000001
+2026-07-05T15:35:04,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24482871,478990,2024,67430,market,active_or_seen,7.0,7.0,7.0,7.0
+2026-07-05T15:35:12,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24335336,484900,2024,61140,market,active_or_seen,9.0,6.0,7.0,7.7
+2026-07-05T15:35:17,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24475018,364800,2023,106840,market,active_or_seen,1.0,19.0,21.5,10.5
+2026-07-05T15:33:47,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23414480,378900,2023,92210,market,active_or_seen,3.0,17.0,21.5,10.899999999999999
+2026-07-05T15:35:15,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24069985,398900,2023,82720,market,active_or_seen,6.0,13.0,21.5,11.2
+2026-07-05T15:34:34,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24193421,389500,2023,87950,market,active_or_seen,5.0,15.0,21.5,11.3
+2026-07-05T15:34:36,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24351463,364900,2023,121450,market,active_or_seen,2.0,20.0,21.5,11.3
+2026-07-05T15:33:42,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24246231,399800,2023,78750,market,active_or_seen,8.0,11.0,21.5,11.6
+2026-07-05T15:34:31,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24503850,419800,2023,61030,market,active_or_seen,11.0,6.0,21.5,11.6
+2026-07-05T15:34:23,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24511628,379900,2023,102310,market,active_or_seen,4.0,18.0,21.5,11.7
+2026-07-05T15:34:45,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24496906,427800,2023,53660,market,active_or_seen,12.0,5.0,21.5,11.8
+2026-07-05T15:35:37,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23989348,399800,2023,80070,market,active_or_seen,8.0,12.0,21.5,11.899999999999999
+2026-07-05T15:33:50,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24314789,399800,2023,89170,market,active_or_seen,8.0,16.0,21.5,13.100000000000001
+2026-07-05T15:34:06,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23651467,404800,2023,83020,market,active_or_seen,10.0,14.0,21.5,13.5
+2026-07-05T15:35:23,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24258600,454900,2023,52370,market,active_or_seen,16.0,4.0,21.5,13.5
+2026-07-05T15:34:17,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512345,437990,2023,66530,market,active_or_seen,14.0,8.0,21.5,13.7
+2026-07-05T15:35:01,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24483626,458900,2023,32610,market,active_or_seen,17.0,3.0,21.5,13.7
+2026-07-05T15:34:58,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24486239,436990,2023,69260,market,active_or_seen,13.0,10.0,21.5,13.8
+2026-07-05T15:35:26,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23947018,459900,2023,32210,market,active_or_seen,18.0,2.0,21.5,13.899999999999999
+2026-07-05T15:35:39,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24460579,443990,2023,62680,market,active_or_seen,15.0,7.0,21.5,13.899999999999999
+2026-07-05T15:33:52,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23492106,324900,2022,141940,market,active_or_seen,1.0,18.0,40.5,14.0
+2026-07-05T15:34:25,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24509357,479800,2023,22830,market,active_or_seen,19.0,1.0,21.5,14.100000000000001
+2026-07-05T15:33:55,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23901108,327400,2022,135000,market,active_or_seen,2.0,17.0,40.5,14.2
+2026-07-05T15:35:31,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/19249622,349800,2022,106890,market,active_or_seen,3.5,15.0,40.5,14.35
+2026-07-05T15:34:53,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24126291,359800,2022,98780,market,active_or_seen,6.0,11.0,40.5,14.399999999999999
+2026-07-05T15:34:55,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24487349,359700,2022,100790,market,active_or_seen,5.0,13.0,40.5,14.5
+2026-07-05T15:34:28,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23562599,349800,2022,114400,market,active_or_seen,3.5,16.0,40.5,14.649999999999999
+2026-07-05T15:35:09,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23655477,369800,2022,87850,market,active_or_seen,8.0,10.0,40.5,15.1
+2026-07-05T15:35:20,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23618486,394990,2022,62260,market,active_or_seen,12.0,5.0,40.5,15.6
+2026-07-05T15:35:28,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24126901,409800,2022,55500,market,active_or_seen,14.0,2.0,40.5,15.7
+2026-07-05T15:35:34,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24466899,388900,2022,72120,market,active_or_seen,11.0,7.0,40.5,15.7
+2026-07-05T15:35:42,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24460568,387990,2022,85820,market,active_or_seen,10.0,9.0,40.5,15.799999999999999
+2026-07-05T15:34:09,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23615967,368900,2022,103990,market,active_or_seen,7.0,14.0,40.5,15.8
+2026-07-05T15:34:14,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512359,369990,2022,98800,market,active_or_seen,9.0,12.0,40.5,16.2
+2026-07-05T15:34:03,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23773262,399700,2022,62330,market,active_or_seen,13.0,6.0,40.5,16.4
+2026-07-05T15:34:47,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23433839,414800,2022,41570,market,active_or_seen,16.5,1.0,40.5,16.65
+2026-07-05T15:34:50,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24491022,720000,2023,68020,market,active_or_seen,20.0,9.0,21.5,17.0
+2026-07-05T15:33:44,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23679506,414800,2022,60060,market,active_or_seen,16.5,4.0,40.5,17.549999999999997
+2026-07-05T15:34:12,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512344,426990,2022,55870,market,active_or_seen,18.0,3.0,40.5,18.0
+2026-07-05T15:35:45,Tesla Model Y,Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24460278,409900,2022,73810,market,active_or_seen,15.0,8.0,40.5,18.0
