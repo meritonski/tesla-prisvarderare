@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+candidate_links_debug.csv
+
+tesla_model_y_database.csv
+tesla_model_y_performance_blocket.csv
+ranked_tesla_deals.csv
