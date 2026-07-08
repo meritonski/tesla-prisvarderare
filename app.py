@@ -2,6 +2,14 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+from domain.statistics import (
+    weighted_percentile,
+    remove_price_outliers,
+)
+
+from domain.similarity import calculate_similarity_weights
+
+from domain.adjustments import calculate_risk_adjustment
 
 DATA_FILE = "ev_market_ranked.csv"
 
@@ -232,44 +240,6 @@ def km(value):
     return f"{value:,.0f} km".replace(",", " ")
 
 
-def weighted_percentile(values, weights, percentile):
-    values = np.asarray(values, dtype=float)
-    weights = np.asarray(weights, dtype=float)
-
-    mask = np.isfinite(values) & np.isfinite(weights) & (weights > 0)
-    values = values[mask]
-    weights = weights[mask]
-
-    if len(values) == 0:
-        return np.nan
-
-    sorter = np.argsort(values)
-    values = values[sorter]
-    weights = weights[sorter]
-
-    cumulative_weights = np.cumsum(weights)
-    cutoff = percentile / 100 * cumulative_weights[-1]
-
-    return values[np.searchsorted(cumulative_weights, cutoff)]
-
-
-def remove_price_outliers(df):
-    if len(df) < 8:
-        return df.copy()
-
-    q1 = df["price_sek"].quantile(0.25)
-    q3 = df["price_sek"].quantile(0.75)
-    iqr = q3 - q1
-
-    if iqr <= 0:
-        return df.copy()
-
-    lower = q1 - 1.5 * iqr
-    upper = q3 + 1.5 * iqr
-
-    return df[(df["price_sek"] >= lower) & (df["price_sek"] <= upper)].copy()
-
-
 def choose_comparison_group(df, display_name, year):
     same_car = df[df["display_name"] == display_name].copy()
     same_car_year = same_car[same_car["year"].astype(int) == int(year)].copy()
@@ -297,25 +267,6 @@ def choose_comparison_group(df, display_name, year):
             return same_make, f"{selected_row['make']}, alla modeller", "Låg"
 
     return df.copy(), "Hela datasetet", "Mycket låg"
-
-
-def calculate_similarity_weights(comparison_df, target_year, target_mileage_km):
-    temp = comparison_df.copy()
-
-    year_diff = abs(temp["year"].astype(float) - float(target_year))
-    mileage_diff = abs(temp["mileage_km"].astype(float) - float(target_mileage_km))
-
-    year_scale = 2.0
-    mileage_scale = 50000.0
-
-    distance = np.sqrt(
-        (year_diff / year_scale) ** 2
-        + (mileage_diff / mileage_scale) ** 2
-    )
-
-    weights = np.exp(-0.5 * distance ** 2)
-
-    return weights
 
 
 def estimate_market_value_from_comps(comparison_df, target_year, target_mileage_km):
@@ -372,42 +323,6 @@ def estimate_market_value_from_comps(comparison_df, target_year, target_mileage_
         "outliers_removed": len(comparison_df) - len(temp),
     }
 
-
-def calculate_risk_adjustment(year, mileage_km):
-    current_year = 2026
-    car_age = current_year - int(year)
-
-    adjustment = 0
-    warnings = []
-
-    if mileage_km > 80000:
-        extra_km = mileage_km - 80000
-        adjustment += min(extra_km / 1000 * 250, 15000)
-        warnings.append(
-            "Bilen har passerat 80 000 km. Kalkylen lägger därför in en försiktig riskjustering."
-        )
-
-    if mileage_km > 120000:
-        extra_km = mileage_km - 120000
-        adjustment += min(extra_km / 1000 * 450, 25000)
-        warnings.append(
-            "Bilen har passerat 120 000 km. Osäkerheten ökar och priset bör granskas mer kritiskt."
-        )
-
-    if mileage_km > 160000:
-        extra_km = mileage_km - 160000
-        adjustment += 35000 + min(extra_km / 1000 * 500, 30000)
-        warnings.append(
-            "Bilen har passerat 160 000 km. Det ger ett större riskavdrag eftersom batteri, drivlina och andrahandsvärde blir mer osäkra."
-        )
-
-    if car_age >= 8:
-        adjustment += 30000
-        warnings.append(
-            "Bilen är 8 år eller äldre. Kalkylen lägger in åldersrisk eftersom garanti och framtida reparationsrisk kan påverka värdet."
-        )
-
-    return adjustment, warnings
 
 
 def calculate_confidence_score(cleaned_df, comparison_quality, fair_low, fair_high, estimated_price):

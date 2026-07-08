@@ -1,0 +1,542 @@
+import asyncio
+import csv
+import re
+from datetime import datetime
+from urllib.parse import urlencode, urljoin, urlparse
+
+from playwright.async_api import async_playwright
+
+
+BASE_URL = "https://www.blocket.se/annonser/hela_sverige/fordon/bilar"
+
+SEARCHES = [
+    {
+        "variant": "Performance",
+        "query": "Tesla Model Y Performance",
+    },
+    {
+        "variant": "Long Range",
+        "query": "Tesla Model Y Long Range",
+    },
+]
+
+OUTPUT_FILE = "tesla_model_y_database.csv"
+DEBUG_LINKS_FILE = "candidate_links_debug.csv"
+
+MAX_SEARCH_PAGES = 150
+MAX_DETAIL_PAGES_PER_SEARCH =30
+
+SEARCH_PAGE_DELAY_MS = 4000
+DETAIL_PAGE_DELAY_MS = 1000
+BETWEEN_DETAILS_DELAY_MS =1000
+
+
+def clean_text(text: str) -> str:
+    return re.sub(r"\s+", " ", text or "").strip()
+
+
+def parse_price(text: str):
+    if not text:
+        return None
+
+    matches = re.findall(r"([\d\s]{3,})\s*kr", text.lower())
+    prices = []
+
+    for match in matches:
+        try:
+            value = int(match.replace(" ", ""))
+            if 100000 <= value <= 1500000:
+                prices.append(value)
+        except Exception:
+            pass
+
+    if not prices:
+        return None
+
+    return prices[0]
+
+
+def parse_mileage_km(text: str):
+    if not text:
+        return None
+
+    lower = text.lower()
+
+    mil_matches = re.findall(r"([\d\s]{1,8})\s*mil\b", lower)
+    for match in mil_matches:
+        try:
+            value = int(match.replace(" ", ""))
+            if 0 <= value <= 30000:
+                return value * 10
+        except Exception:
+            pass
+
+    km_matches = re.findall(r"([\d\s]{1,8})\s*km\b", lower)
+    for match in km_matches:
+        try:
+            value = int(match.replace(" ", ""))
+            if 0 <= value <= 300000:
+                return value
+        except Exception:
+            pass
+
+    return None
+
+
+def parse_year(text: str):
+    if not text:
+        return None
+
+    matches = re.findall(r"\b(20[1-2][0-9])\b", text)
+
+    for match in matches:
+        year = int(match)
+        if 2019 <= year <= 2026:
+            return year
+
+    return None
+
+
+def normalize_url(href: str) -> str:
+    if not href:
+        return ""
+
+    href = href.strip()
+    href = urljoin("https://www.blocket.se", href)
+    href = href.split("#")[0]
+
+    return href
+
+
+def is_bad_url(url: str) -> bool:
+    lower = url.lower()
+
+    bad_parts = [
+        "logga-in",
+        "login",
+        "konto",
+        "notiser",
+        "nyannons",
+        "kundservice",
+        "villkor",
+        "privacy",
+        "cookies",
+        "support",
+        "help",
+        "safety",
+        "blocketbostad",
+        "jobb",
+        "betalning",
+        "paket",
+    ]
+
+    for bad in bad_parts:
+        if bad in lower:
+            return True
+
+    return False
+
+
+def is_blocket_url(url: str) -> bool:
+    try:
+        parsed = urlparse(url)
+        return "blocket.se" in parsed.netloc
+    except Exception:
+        return False
+
+
+def text_looks_like_car_card(text: str) -> bool:
+    lower = text.lower()
+
+    indicators = [
+        "tesla",
+        "model y",
+        "performance",
+        "long range",
+        "kr",
+        "mil",
+        "km",
+        "automat",
+        "el",
+        "awd",
+    ]
+
+    score = 0
+
+    for indicator in indicators:
+        if indicator in lower:
+            score += 1
+
+    return score >= 2
+
+
+def detect_variant(text: str, fallback_variant: str):
+    lower = text.lower()
+
+    if "performance" in lower:
+        return "Performance"
+
+    if "long range" in lower or "long-range" in lower or "longrange" in lower:
+        return "Long Range"
+
+    return fallback_variant
+
+
+def detail_text_is_relevant(text: str, url: str, expected_variant: str) -> bool:
+    combined = f"{text} {url}".lower()
+
+    if "tesla" not in combined:
+        return False
+
+    if "model y" not in combined and "model-y" not in combined and "model_y" not in combined:
+        return False
+
+    if expected_variant == "Performance":
+        if "performance" not in combined:
+            return False
+
+    if expected_variant == "Long Range":
+        if "long range" not in combined and "long-range" not in combined and "longrange" not in combined:
+            return False
+
+    return True
+
+
+async def accept_cookies(page):
+    cookie_buttons = [
+        "button:has-text('Acceptera')",
+        "button:has-text('Godkänn')",
+        "button:has-text('Tillåt alla')",
+        "button:has-text('Acceptera alla')",
+        "button:has-text('Accept')",
+        "button:has-text('Accept all')",
+    ]
+
+    for selector in cookie_buttons:
+        try:
+            count = await page.locator(selector).count()
+            if count > 0:
+                await page.locator(selector).first.click(timeout=2000)
+                await page.wait_for_timeout(1000)
+                return
+        except Exception:
+            pass
+
+
+async def get_card_text_for_link(page, index):
+    script = """
+    (index) => {
+        const links = Array.from(document.querySelectorAll("a[href]"));
+        const a = links[index];
+        if (!a) return "";
+
+        const candidates = [
+            a,
+            a.closest("article"),
+            a.closest("li"),
+            a.closest("[data-testid]"),
+            a.parentElement,
+            a.parentElement ? a.parentElement.parentElement : null,
+            a.parentElement && a.parentElement.parentElement ? a.parentElement.parentElement.parentElement : null
+        ];
+
+        let best = "";
+
+        for (const el of candidates) {
+            if (!el) continue;
+            const txt = (el.innerText || "").replace(/\\s+/g, " ").trim();
+            if (txt.length > best.length) best = txt;
+        }
+
+        return best;
+    }
+    """
+
+    try:
+        text = await page.evaluate(script, index)
+        return clean_text(text)
+    except Exception:
+        return ""
+
+
+async def get_all_links_with_context(page):
+    result = []
+
+    links = await page.locator("a[href]").all()
+
+    for i, link in enumerate(links):
+        try:
+            href = await link.get_attribute("href")
+            if not href:
+                continue
+
+            url = normalize_url(href)
+
+            if not is_blocket_url(url):
+                continue
+
+            if is_bad_url(url):
+                continue
+
+            link_text = ""
+            try:
+                link_text = clean_text(await link.inner_text(timeout=1000))
+            except Exception:
+                pass
+
+            card_text = await get_card_text_for_link(page, i)
+
+            result.append({
+                "url": url,
+                "link_text": link_text,
+                "card_text": card_text,
+            })
+
+        except Exception:
+            continue
+
+    return result
+
+
+async def collect_ad_links(page, search):
+    candidates = []
+    seen = set()
+
+    query = search["query"]
+    fallback_variant = search["variant"]
+
+    for page_num in range(1, MAX_SEARCH_PAGES + 1):
+        params = {
+            "q": query,
+            "page": page_num,
+        }
+
+        search_url = f"{BASE_URL}?{urlencode(params)}"
+        print(f"Hämtar söksida {page_num} för {fallback_variant}: {search_url}")
+
+        try:
+            await page.goto(search_url, wait_until="domcontentloaded", timeout=60000)
+            await page.wait_for_timeout(SEARCH_PAGE_DELAY_MS)
+            await accept_cookies(page)
+            await page.wait_for_timeout(1000)
+        except Exception as e:
+            print(f"Kunde inte öppna söksida {page_num}: {e}")
+            continue
+
+        links = await get_all_links_with_context(page)
+        print(f"Hittade {len(links)} Blocket-länkar på söksida {page_num}.")
+
+        found_this_page = 0
+
+        for item in links:
+            url = item["url"]
+            card_text = item["card_text"]
+            link_text = item["link_text"]
+            combined = clean_text(f"{link_text} {card_text} {url}")
+
+            if url in seen:
+                continue
+
+            if not text_looks_like_car_card(combined):
+                continue
+
+            seen.add(url)
+
+            candidates.append({
+                "url": url,
+                "search_text": combined[:1000],
+                "search_page": page_num,
+                "search_query": query,
+                "fallback_variant": fallback_variant,
+            })
+
+            found_this_page += 1
+
+        print(f"Sparade {found_this_page} kandidat-länkar från söksida {page_num}.")
+
+        await page.wait_for_timeout(4000)
+
+    return candidates
+
+
+async def get_page_title(page):
+    selectors = [
+        "h1",
+        "[data-testid='ad-title']",
+        "[data-cy='ad-title']",
+        "title",
+    ]
+
+    for selector in selectors:
+        try:
+            if selector == "title":
+                text = clean_text(await page.title())
+            else:
+                count = await page.locator(selector).count()
+                if count == 0:
+                    continue
+                text = clean_text(await page.locator(selector).first.inner_text(timeout=3000))
+
+            if text:
+                return text
+        except Exception:
+            pass
+
+    return ""
+
+
+async def get_body_text(page):
+    try:
+        return clean_text(await page.locator("body").inner_text(timeout=8000))
+    except Exception:
+        return ""
+
+
+async def scrape_detail_page(page, candidate):
+    url = candidate["url"]
+    expected_variant = candidate["fallback_variant"]
+
+    try:
+        await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        await page.wait_for_timeout(DETAIL_PAGE_DELAY_MS)
+        await accept_cookies(page)
+    except Exception as e:
+        print(f"Kunde inte öppna annons: {url} | {e}")
+        return None
+
+    title = await get_page_title(page)
+    body_text = await get_body_text(page)
+
+    combined_text = clean_text(f"{title} {body_text} {candidate.get('search_text', '')}")
+
+    if not detail_text_is_relevant(combined_text, url, expected_variant):
+        return None
+
+    detected_variant = detect_variant(combined_text, expected_variant)
+
+    row = {
+        "scraped_at": datetime.now().isoformat(timespec="seconds"),
+        "model": "Tesla Model Y",
+        "variant": detected_variant,
+        "title_text": title,
+        "url": url,
+        "price_sek": parse_price(combined_text),
+        "year": parse_year(combined_text),
+        "mileage_km": parse_mileage_km(combined_text),
+        "source": "Blocket",
+        "status": "active_or_seen",
+    }
+
+    return row
+
+
+def save_rows(rows):
+    fieldnames = [
+        "scraped_at",
+        "model",
+        "variant",
+        "title_text",
+        "url",
+        "price_sek",
+        "year",
+        "mileage_km",
+        "source",
+        "status",
+    ]
+
+    with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+async def scrape():
+    rows = []
+    seen_detail_urls = set()
+    debug_candidates = []
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=False)
+
+        context = await browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/125.0 Safari/537.36"
+            ),
+            viewport={"width": 1400, "height": 1000},
+        )
+
+        search_page = await context.new_page()
+        detail_page = await context.new_page()
+
+        all_candidates = []
+
+        for search in SEARCHES:
+            candidates = await collect_ad_links(search_page, search)
+            all_candidates.extend(candidates)
+            debug_candidates.extend(candidates)
+
+        with open(DEBUG_LINKS_FILE, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(
+                f,
+                fieldnames=[
+                    "url",
+                    "search_page",
+                    "search_query",
+                    "fallback_variant",
+                    "search_text",
+                ],
+            )
+            writer.writeheader()
+            writer.writerows(debug_candidates)
+
+        print("")
+        print(f"Totalt antal kandidat-länkar: {len(all_candidates)}")
+        print("Börjar öppna varje kandidat en i taget.")
+        print("")
+
+        for index, candidate in enumerate(all_candidates, start=1):
+            url = candidate["url"]
+
+            # Samma annons kan dyka upp i båda sökningarna.
+            # Då sparar vi den bara en gång.
+            if url in seen_detail_urls:
+                continue
+
+            seen_detail_urls.add(url)
+
+            if index > MAX_DETAIL_PAGES_PER_SEARCH * len(SEARCHES):
+                break
+
+            print(f"[{index}/{len(all_candidates)}] Öppnar: {url}")
+
+            row = await scrape_detail_page(detail_page, candidate)
+
+            if row is None:
+                print("Ej relevant eller kunde inte läsa annonsdata.")
+            else:
+                rows.append(row)
+                save_rows(rows)
+
+                print(
+                    "SPARAD:",
+                    row.get("variant"),
+                    "pris=", row.get("price_sek"),
+                    "år=", row.get("year"),
+                    "km=", row.get("mileage_km"),
+                    "titel=", row.get("title_text"),
+                )
+
+            await detail_page.wait_for_timeout(BETWEEN_DETAILS_DELAY_MS)
+
+        await browser.close()
+
+    save_rows(rows)
+
+    print("")
+    print(f"Klart. Sparade {len(rows)} annonser i {OUTPUT_FILE}")
+
+
+if __name__ == "__main__":
+    asyncio.run(scrape())

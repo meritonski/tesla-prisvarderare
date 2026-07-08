@@ -1,0 +1,255 @@
+[
+  {
+    "make": "Tesla",
+    "model": "Model Y",
+    "variant": "Performance",
+    "display_name": "Tesla Model Y Performance",
+    "query": "Tesla Model Y Performance",
+    "required_terms": [
+      "tesla",
+      "model y"
+    ]
+  },
+  {
+    "make": "Tesla",
+    "model": "Model Y",
+    "variant": "Long Range",
+    "display_name": "Tesla Model Y Long Range",
+    "query": "Tesla Model Y Long Range",
+    "required_terms": [
+      "tesla",
+      "model y"
+    ]
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "variant": "Performance",
+    "display_name": "Tesla Model 3 Performance",
+    "query": "Tesla Model 3 Performance",
+    "required_terms": [
+      "tesla",
+      "model 3"
+    ]
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "variant": "Long Range",
+    "display_name": "Tesla Model 3 Long Range",
+    "query": "Tesla Model 3 Long Range",
+    "required_terms": [
+      "tesla",
+      "model 3"
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "i4",
+    "variant": "eDrive40",
+    "display_name": "BMW i4 eDrive40",
+    "query": "BMW i4 eDrive40",
+    "required_terms": [
+      "bmw",
+      "i4"
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "i4",
+    "variant": "M50",
+    "display_name": "BMW i4 M50",
+    "query": "BMW i4 M50",
+    "required_terms": [
+      "bmw",
+      "i4"
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "i5",
+    "variant": "eDrive40",
+    "display_name": "BMW i5 eDrive40",
+    "query": "BMW i5 eDrive40",
+    "required_terms": [
+      "bmw",
+      "i5"
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "i5",
+    "variant": "xDrive40",
+    "display_name": "BMW i5 xDrive40",
+    "query": "BMW i5 xDrive40",
+    "required_terms": [
+      "bmw",
+      "i5"
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "i5",
+    "variant": "M60",
+    "display_name": "BMW i5 M60",
+    "query": "BMW i5 M60",
+    "required_terms": [
+      "bmw",
+      "i5"
+    ]
+  },
+  {
+    "make": "Audi",
+    "model": "e-tron GT",
+    "variant": "GT",
+    "display_name": "Audi e-tron GT",
+    "query": "Audi e-tron GT",
+    "required_terms": [
+      "audi",
+      "e-tron",
+      "gt"
+    ]
+  },
+  {
+    "make": "Audi",
+    "model": "RS e-tron GT",
+    "variant": "RS",
+    "display_name": "Audi RS e-tron GT",
+    "query": "Audi RS e-tron GT",
+    "required_terms": [
+      "audi",
+      "e-tron",
+      "gt"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "model": "Taycan",
+    "variant": "Base",
+    "display_name": "Porsche Taycan",
+    "query": "Porsche Taycan",
+    "required_terms": [
+      "porsche",
+      "taycan"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "model": "Taycan",
+    "variant": "4S",
+    "display_name": "Porsche Taycan 4S",
+    "query": "Porsche Taycan 4S",
+    "required_terms": [
+      "porsche",
+      "taycan"
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "EV6",
+    "variant": "EV6",
+    "display_name": "Kia EV6",
+    "query": "Kia EV6",
+    "required_terms": [
+      "kia",
+      "ev6"
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "EV9",
+    "variant": "EV9",
+    "display_name": "Kia EV9",
+    "query": "Kia EV9",
+    "required_terms": [
+      "kia",
+      "ev9"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "IONIQ 5",
+    "variant": "IONIQ 5",
+    "display_name": "Hyundai IONIQ 5",
+    "query": "Hyundai IONIQ 5",
+    "required_terms": [
+      "hyundai",
+      "ioniq"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "IONIQ 6",
+    "variant": "IONIQ 6",
+    "display_name": "Hyundai IONIQ 6",
+    "query": "Hyundai IONIQ 6",
+    "required_terms": [
+      "hyundai",
+      "ioniq"
+    ]
+  },
+  {
+    "make": "Polestar",
+    "model": "2",
+    "variant": "Polestar 2",
+    "display_name": "Polestar 2",
+    "query": "Polestar 2",
+    "required_terms": [
+      "polestar"
+    ]
+  },
+  {
+    "make": "Polestar",
+    "model": "3",
+    "variant": "Polestar 3",
+    "display_name": "Polestar 3",
+    "query": "Polestar 3",
+    "required_terms": [
+      "polestar"
+    ]
+  },
+  {
+    "make": "Volvo",
+    "model": "EX30",
+    "variant": "EX30",
+    "display_name": "Volvo EX30",
+    "query": "Volvo EX30",
+    "required_terms": [
+      "volvo",
+      "ex30"
+    ]
+  },
+  {
+    "make": "Volvo",
+    "model": "EX40",
+    "variant": "EX40",
+    "display_name": "Volvo EX40",
+    "query": "Volvo EX40",
+    "required_terms": [
+      "volvo",
+      "ex40"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "EQE",
+    "variant": "EQE",
+    "display_name": "Mercedes EQE",
+    "query": "Mercedes EQE",
+    "required_terms": [
+      "mercedes",
+      "eqe"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "EQS",
+    "variant": "EQS",
+    "display_name": "Mercedes EQS",
+    "query": "Mercedes EQS",
+    "required_terms": [
+      "mercedes",
+      "eqs"
+    ]
+  }
+]
