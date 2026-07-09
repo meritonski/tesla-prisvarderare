@@ -251,5 +251,71 @@
       "mercedes",
       "eqs"
     ]
-  }
-]
+  },
+{
+  "make": "Porsche",
+  "model": "Taycan",
+  "variant": "GTS",
+  "display_name": "Porsche Taycan GTS",
+  "query": "Porsche Taycan GTS",
+  "required_terms": [
+    "porsche",
+    "taycan"
+  ]
+},
+{
+  "make": "Porsche",
+  "model": "Taycan",
+  "variant": "Turbo",
+  "display_name": "Porsche Taycan Turbo",
+  "query": "Porsche Taycan Turbo",
+  "required_terms": [
+    "porsche",
+    "taycan"
+  ]
+},
+{
+  "make": "Porsche",
+  "model": "Taycan",
+  "variant": "Turbo S",
+  "display_name": "Porsche Taycan Turbo S",
+  "query": "Porsche Taycan Turbo S",
+  "required_terms": [
+    "porsche",
+    "taycan"
+  ]
+},
+{
+  "make": "Porsche",
+  "model": "Taycan Cross Turismo",
+  "variant": "Cross Turismo",
+  "display_name": "Porsche Taycan Cross Turismo",
+  "query": "Porsche Taycan Cross Turismo",
+  "required_terms": [
+    "porsche",
+    "taycan"
+  ]
+},
+{
+  "make": "Porsche",
+  "model": "Taycan Sport Turismo",
+  "variant": "Sport Turismo",
+  "display_name": "Porsche Taycan Sport Turismo",
+  "query": "Porsche Taycan Sport Turismo",
+  "required_terms": [
+    "porsche",
+    "taycan"
+  ]
+},
+{
+  "make": "Kia",
+  "model": "EV6",
+  "variant": "GT",
+  "display_name": "Kia EV6 GT",
+  "query": "Kia EV6 GT",
+  "required_terms": [
+    "kia",
+    "ev6"
+  ]
+}
+] 

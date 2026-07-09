@@ -1,246 +1,892 @@
 scraped_at,make,model,variant,display_name,title_text,url,price_sek,year,mileage_km,source,status
-2026-07-05T20:22:35,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24562132,474900,2024,39890,market,active_or_seen
-2026-07-05T20:22:38,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23932712,499000,2025,40820,market,active_or_seen
-2026-07-05T20:22:40,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23536396,469000,2024,47900,market,active_or_seen
-2026-07-05T20:22:43,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24246231,399800,2023,78750,market,active_or_seen
-2026-07-05T20:22:46,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23679506,414800,2022,60060,market,active_or_seen
-2026-07-05T20:22:48,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23414480,378900,2023,92210,market,active_or_seen
-2026-07-05T20:22:51,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24314789,399800,2023,89170,market,active_or_seen
-2026-07-05T20:22:54,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23492106,324900,2022,141940,market,active_or_seen
-2026-07-05T20:22:57,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23901108,327400,2022,135000,market,active_or_seen
-2026-07-05T20:22:59,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24523830,462990,2024,72330,market,active_or_seen
-2026-07-05T20:23:02,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23800448,468900,2024,47900,market,active_or_seen
-2026-07-05T20:23:05,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23773262,399700,2022,62330,market,active_or_seen
-2026-07-05T20:23:08,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23651467,404800,2023,83020,market,active_or_seen
-2026-07-05T20:23:11,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23615967,368900,2022,103990,market,active_or_seen
-2026-07-05T20:23:13,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512344,426990,2022,55870,market,active_or_seen
-2026-07-05T20:23:16,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512359,369990,2022,98800,market,active_or_seen
-2026-07-05T20:23:19,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512345,437990,2023,66530,market,active_or_seen
-2026-07-05T20:23:21,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512342,454990,2024,90690,market,active_or_seen
-2026-07-05T20:23:24,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24511628,379900,2023,102310,market,active_or_seen
-2026-07-05T20:23:27,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24509357,479800,2023,22830,market,active_or_seen
-2026-07-05T20:23:30,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23562599,349800,2022,114400,market,active_or_seen
-2026-07-05T20:23:32,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24503850,419800,2023,61030,market,active_or_seen
-2026-07-05T20:23:35,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24193421,389500,2023,87950,market,active_or_seen
-2026-07-05T20:23:38,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24351463,364900,2023,121450,market,active_or_seen
-2026-07-05T20:23:40,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23836520,479900,2024,47000,market,active_or_seen
-2026-07-05T20:23:46,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24496906,427800,2023,53660,market,active_or_seen
-2026-07-05T20:23:49,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23433839,414800,2022,41570,market,active_or_seen
-2026-07-05T20:23:52,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24491022,474900,2023,68020,market,active_or_seen
-2026-07-05T20:23:54,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24126291,359800,2022,98780,market,active_or_seen
-2026-07-05T20:23:57,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24487349,359700,2022,100790,market,active_or_seen
-2026-07-05T20:24:00,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24486239,436990,2023,69260,market,active_or_seen
-2026-07-05T20:24:02,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24483626,458900,2023,32610,market,active_or_seen
-2026-07-05T20:24:05,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24482871,478990,2024,67430,market,active_or_seen
-2026-07-05T20:24:08,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23750061,469000,2024,46870,market,active_or_seen
-2026-07-05T20:24:11,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23655477,369800,2022,87850,market,active_or_seen
-2026-07-05T20:24:13,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24335336,484900,2024,61140,market,active_or_seen
-2026-07-05T20:24:16,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24069985,398900,2023,82720,market,active_or_seen
-2026-07-05T20:24:19,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24475018,364800,2023,106840,market,active_or_seen
-2026-07-05T20:24:22,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23618486,394990,2022,62260,market,active_or_seen
-2026-07-05T20:24:24,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24258600,454900,2023,52370,market,active_or_seen
-2026-07-05T20:24:27,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23947018,459900,2023,32210,market,active_or_seen
-2026-07-05T20:24:30,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24126901,409800,2022,55500,market,active_or_seen
-2026-07-05T20:24:33,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/19249622,349800,2022,106890,market,active_or_seen
-2026-07-05T20:24:35,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24466899,388900,2022,72120,market,active_or_seen
-2026-07-05T20:24:38,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23989348,399800,2023,80070,market,active_or_seen
-2026-07-05T20:24:41,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24460568,387990,2022,85820,market,active_or_seen
-2026-07-05T20:24:43,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24460579,443990,2023,62680,market,active_or_seen
-2026-07-05T20:24:46,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24460278,409900,2022,73810,market,active_or_seen
-2026-07-05T20:24:49,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24460041,469700,2024,46000,market,active_or_seen
-2026-07-05T20:24:52,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24520515,314800,2021,113570,market,active_or_seen
-2026-07-05T20:24:54,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24081283,324900,2022,122000,market,active_or_seen
-2026-07-05T20:24:57,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23986402,419000,2023,39610,market,active_or_seen
-2026-07-05T20:25:00,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24162657,358800,2021,70210,market,active_or_seen
-2026-07-05T20:25:03,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24247410,334800,2022,100300,market,active_or_seen
-2026-07-05T20:25:05,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24272935,349900,2021,89570,market,active_or_seen
-2026-07-05T20:25:08,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24127973,398800,2022,34040,market,active_or_seen
-2026-07-05T20:25:11,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24389849,324800,2021,119730,market,active_or_seen
-2026-07-05T20:25:14,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23048035,399800,2023,62340,market,active_or_seen
-2026-07-05T20:25:16,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23538632,379900,2023,92340,market,active_or_seen
-2026-07-05T20:25:19,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/22825422,319800,2022,139150,market,active_or_seen
-2026-07-05T20:25:22,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23048443,469900,2025,41740,market,active_or_seen
-2026-07-05T20:25:25,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24553120,393900,2023,69200,market,active_or_seen
-2026-07-05T20:25:28,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24552968,388900,2023,76610,market,active_or_seen
-2026-07-05T20:25:30,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24151460,324800,2021,112710,market,active_or_seen
-2026-07-05T20:25:33,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24126682,399900,2023,81950,market,active_or_seen
-2026-07-05T20:25:36,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24246544,329800,2021,102140,market,active_or_seen
-2026-07-05T20:25:38,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23749698,649800,2025,21970,market,active_or_seen
-2026-07-05T20:25:41,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/21056242,374800,2022,44850,market,active_or_seen
-2026-07-05T20:25:44,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/22031789,344800,2021,64740,market,active_or_seen
-2026-07-05T20:25:47,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24535860,324900,2023,121670,market,active_or_seen
-2026-07-05T20:25:49,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/20547627,309800,2021,128920,market,active_or_seen
-2026-07-05T20:25:52,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23561588,358800,2023,106650,market,active_or_seen
-2026-07-05T20:25:55,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23988219,339700,2023,126780,market,active_or_seen
-2026-07-05T20:25:58,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23463480,334700,2021,92490,market,active_or_seen
-2026-07-05T20:26:00,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24240295,339800,2021,99250,market,active_or_seen
-2026-07-05T20:26:03,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24530944,649000,2025,5000,market,active_or_seen
-2026-07-05T20:26:06,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23488659,384700,2022,57960,market,active_or_seen
-2026-07-05T20:26:09,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23594195,419700,2023,46530,market,active_or_seen
-2026-07-05T20:26:11,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24502010,479000,2024,48260,market,active_or_seen
-2026-07-05T20:26:14,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24347383,349900,2021,72360,market,active_or_seen
-2026-07-05T20:26:17,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24526888,421990,2023,54820,market,active_or_seen
-2026-07-05T20:26:20,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24125733,299800,2021,147860,market,active_or_seen
-2026-07-05T20:26:22,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23901108,327400,2022,135000,market,active_or_seen
-2026-07-05T20:26:25,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24151964,388700,2022,53360,market,active_or_seen
-2026-07-05T20:26:28,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24521340,374900,2024,105000,market,active_or_seen
-2026-07-05T20:26:31,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24521235,384900,2024,92000,market,active_or_seen
-2026-07-05T20:26:33,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24362394,339700,2023,128800,market,active_or_seen
-2026-07-05T20:26:36,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24521103,394900,2024,71000,market,active_or_seen
-2026-07-05T20:26:39,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24520617,389900,2023,62390,market,active_or_seen
-2026-07-05T20:26:41,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24520282,369900,2023,87650,market,active_or_seen
-2026-07-05T20:26:44,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24519953,384600,2023,72680,market,active_or_seen
-2026-07-05T20:26:47,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24519917,319700,2022,127320,market,active_or_seen
-2026-07-05T20:26:50,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24519885,401990,2023,77570,market,active_or_seen
-2026-07-05T20:26:53,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24409384,368700,2022,83370,market,active_or_seen
-2026-07-05T20:26:55,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24517779,314800,2023,75300,market,active_or_seen
-2026-07-05T20:26:58,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24348671,278900,2021,171990,market,active_or_seen
-2026-07-05T20:27:01,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24516081,489000,2024,20340,market,active_or_seen
-2026-07-05T20:27:04,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23602135,349800,2021,76800,market,active_or_seen
-2026-07-05T20:27:06,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22384221,559900,2022,59800,market,active_or_seen
-2026-07-05T20:27:09,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22975481,699000,2022,58560,market,active_or_seen
-2026-07-05T20:27:12,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/19277176,679000,2022,88790,market,active_or_seen
-2026-07-05T20:27:15,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/21819590,749000,2023,43000,market,active_or_seen
-2026-07-05T20:27:17,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24177442,599900,2022,94500,market,active_or_seen
-2026-07-05T20:27:20,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14101937,699000,2022,66000,market,active_or_seen
-2026-07-05T20:27:23,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22493857,1099000,2024,4290,market,active_or_seen
-2026-07-05T20:27:26,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14673832,899000,2022,6100,market,active_or_seen
-2026-07-05T20:27:28,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/15085368,640000,2022,34000,market,active_or_seen
-2026-07-05T20:27:31,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14373799,849900,2022,39950,market,active_or_seen
-2026-07-05T20:27:34,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22384221,559900,2022,59800,market,active_or_seen
-2026-07-05T20:27:37,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23816365,569800,2022,82990,market,active_or_seen
-2026-07-05T20:27:39,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/20815621,619800,2022,21770,market,active_or_seen
-2026-07-05T20:27:42,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23633832,539900,2022,84020,market,active_or_seen
-2026-07-05T20:27:45,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13547204,1860000,2025,59800,market,active_or_seen
-2026-07-05T20:27:48,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/20481307,579700,2022,84990,market,active_or_seen
-2026-07-05T20:27:50,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24348069,669000,2023,22360,market,active_or_seen
-2026-07-05T20:27:53,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24344404,579800,2022,76130,market,active_or_seen
-2026-07-05T20:27:56,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22975481,699000,2022,58560,market,active_or_seen
-2026-07-05T20:27:59,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/19277176,679000,2022,88790,market,active_or_seen
-2026-07-05T20:28:01,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23908010,599000,2022,68000,market,active_or_seen
-2026-07-05T20:28:04,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24317567,1099000,2026,0,market,active_or_seen
-2026-07-05T20:28:07,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24268743,519900,2022,103740,market,active_or_seen
-2026-07-05T20:28:10,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/21819590,749000,2023,43000,market,active_or_seen
-2026-07-05T20:28:12,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24177442,599900,2022,94500,market,active_or_seen
-2026-07-05T20:28:15,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/21983562,659000,2022,40000,market,active_or_seen
-2026-07-05T20:28:18,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23268616,599900,2023,78390,market,active_or_seen
-2026-07-05T20:28:20,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23815683,559900,2027,0,market,active_or_seen
-2026-07-05T20:28:23,Audi,e-tron GT,GT,Audi e-tron GT,Audi e-tron GT,https://www.blocket.se/mobility/item/23625305,550000,2022,68000,market,active_or_seen
-2026-07-05T20:28:26,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23810657,559900,2026,0,market,active_or_seen
-2026-07-05T20:28:29,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23807028,559900,2026,0,market,active_or_seen
-2026-07-05T20:28:31,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23806958,559900,2026,0,market,active_or_seen
-2026-07-05T20:28:34,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13358326,629000,2023,64010,market,active_or_seen
-2026-07-05T20:28:37,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23753910,525000,2022,103000,market,active_or_seen
-2026-07-05T20:28:40,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23355040,1164400,2026,0,market,active_or_seen
-2026-07-05T20:28:42,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14101937,699000,2022,66000,market,active_or_seen
-2026-07-05T20:28:45,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22493857,1099000,2024,4290,market,active_or_seen
-2026-07-05T20:28:48,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14673832,899000,2022,6100,market,active_or_seen
-2026-07-05T20:28:51,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/20259037,629900,2023,56000,market,active_or_seen
-2026-07-05T20:28:53,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/17761016,659900,2022,56990,market,active_or_seen
-2026-07-05T20:28:56,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/15623993,1312000,2026,0,market,active_or_seen
-2026-07-05T20:28:59,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/15085368,640000,2022,34000,market,active_or_seen
-2026-07-05T20:29:02,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14533835,1460000,2025,0,market,active_or_seen
-2026-07-05T20:29:04,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14384860,1258900,2026,0,market,active_or_seen
-2026-07-05T20:29:07,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14373799,849900,2022,39950,market,active_or_seen
-2026-07-05T20:29:10,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13990164,649000,2022,49500,market,active_or_seen
-2026-07-05T20:29:13,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13952724,639000,2022,70000,market,active_or_seen
-2026-07-05T20:29:15,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13732536,499900,2022,99800,market,active_or_seen
-2026-07-05T20:29:18,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23812406,529000,2024,34000,market,active_or_seen
-2026-07-05T20:29:21,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24571847,389800,2024,144250,market,active_or_seen
-2026-07-05T20:29:24,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23225126,438700,2024,107940,market,active_or_seen
-2026-07-05T20:29:26,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24564386,424800,2024,70020,market,active_or_seen
-2026-07-05T20:29:29,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24271786,459800,2024,88050,market,active_or_seen
-2026-07-05T20:29:32,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23551978,479900,2023,50930,market,active_or_seen
-2026-07-05T20:29:34,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24146461,390000,2022,129100,market,active_or_seen
-2026-07-05T20:29:37,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23881689,409800,2024,88790,market,active_or_seen
-2026-07-05T20:29:40,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23249033,369000,2023,106650,market,active_or_seen
-2026-07-05T20:29:43,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24545071,449900,2024,100220,market,active_or_seen
-2026-07-05T20:29:46,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370789,800200,2026,0,market,active_or_seen
-2026-07-05T20:29:48,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23016679,848700,2026,0,market,active_or_seen
-2026-07-05T20:29:51,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370771,788400,2026,0,market,active_or_seen
-2026-07-05T20:29:54,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23016664,811300,2026,0,market,active_or_seen
-2026-07-05T20:29:57,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370787,788400,2026,0,market,active_or_seen
-2026-07-05T20:29:59,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370796,848700,2026,0,market,active_or_seen
-2026-07-05T20:30:02,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23403222,788400,2026,0,market,active_or_seen
-2026-07-05T20:30:05,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/22032586,803900,2026,0,market,active_or_seen
-2026-07-05T20:30:08,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370797,800200,2026,0,market,active_or_seen
-2026-07-05T20:30:10,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370766,788400,2026,0,market,active_or_seen
-2026-07-05T20:30:13,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370791,800200,2026,0,market,active_or_seen
-2026-07-05T20:30:16,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370783,788400,2026,0,market,active_or_seen
-2026-07-05T20:30:19,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23314738,788400,2026,0,market,active_or_seen
-2026-07-05T20:30:21,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/22197195,815700,2026,0,market,active_or_seen
-2026-07-05T20:30:24,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370784,788400,2026,0,market,active_or_seen
-2026-07-05T20:30:27,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370790,800200,2026,0,market,active_or_seen
-2026-07-05T20:30:30,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370776,788400,2026,0,market,active_or_seen
-2026-07-05T20:30:32,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23370778,788400,2026,0,market,active_or_seen
-2026-07-05T20:30:35,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24530936,389000,2024,103000,market,active_or_seen
-2026-07-05T20:30:38,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23455461,399000,2023,62950,market,active_or_seen
-2026-07-05T20:30:40,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/18878641,559000,2026,10110,market,active_or_seen
-2026-07-05T20:30:43,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24522207,529000,2026,12600,market,active_or_seen
-2026-07-05T20:30:46,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24513134,439900,2024,55270,market,active_or_seen
-2026-07-05T20:30:49,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24512763,749900,2026,8740,market,active_or_seen
-2026-07-05T20:30:51,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24512075,579900,2025,4790,market,active_or_seen
-2026-07-05T20:30:54,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/21988478,729000,2026,4000,market,active_or_seen
-2026-07-05T20:30:57,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24507909,599700,2025,29330,market,active_or_seen
-2026-07-05T20:31:00,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24509282,823500,2026,0,market,active_or_seen
-2026-07-05T20:31:02,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24507900,548700,2024,37450,market,active_or_seen
-2026-07-05T20:31:05,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24507660,529000,2024,73620,market,active_or_seen
-2026-07-05T20:31:08,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23722161,474800,2022,71820,market,active_or_seen
-2026-07-05T20:31:11,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24496669,539000,2025,6360,market,active_or_seen
-2026-07-05T20:31:13,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23749798,438900,2024,46350,market,active_or_seen
-2026-07-05T20:31:16,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23026526,479000,2023,59500,market,active_or_seen
-2026-07-05T20:31:19,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24494990,439900,2024,124000,market,active_or_seen
-2026-07-05T20:31:21,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24287046,544800,2024,28060,market,active_or_seen
-2026-07-05T20:31:24,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24491920,479000,2024,73620,market,active_or_seen
-2026-07-05T20:31:27,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/23999040,359800,2023,86390,market,active_or_seen
-2026-07-05T20:31:30,BMW,i4,i4,BMW i4,BMW i4,https://www.blocket.se/mobility/item/24263727,249000,2023,206000,market,active_or_seen
-2026-07-05T20:31:32,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23373877,318800,2022,145400,market,active_or_seen
-2026-07-05T20:31:35,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24572054,299800,2023,128500,market,active_or_seen
-2026-07-05T20:31:38,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24263754,308900,2022,91620,market,active_or_seen
-2026-07-05T20:31:41,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/21069896,509000,2025,17930,market,active_or_seen
-2026-07-05T20:31:43,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23785395,369900,2023,41310,market,active_or_seen
-2026-07-05T20:31:46,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24543401,399900,2022,62330,market,active_or_seen
-2026-07-05T20:31:49,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/13888940,359000,2023,47600,market,active_or_seen
-2026-07-05T20:31:52,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24540517,358900,2022,101110,market,active_or_seen
-2026-07-05T20:31:54,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23996725,329800,2022,130260,market,active_or_seen
-2026-07-05T20:31:57,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23831283,385000,2023,16120,market,active_or_seen
-2026-07-05T20:32:00,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24536633,369900,2023,40100,market,active_or_seen
-2026-07-05T20:32:03,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24535106,519900,2025,21780,market,active_or_seen
-2026-07-05T20:32:05,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24149266,389800,2022,64050,market,active_or_seen
-2026-07-05T20:32:08,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24151957,314700,2023,158470,market,active_or_seen
-2026-07-05T20:32:11,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24354333,339800,2022,119670,market,active_or_seen
-2026-07-05T20:32:13,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/22809128,389900,2023,89000,market,active_or_seen
-2026-07-05T20:32:16,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24098351,329900,2023,115170,market,active_or_seen
-2026-07-05T20:32:19,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24325387,308900,2022,97270,market,active_or_seen
-2026-07-05T20:32:22,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/22772799,569300,2026,6850,market,active_or_seen
-2026-07-05T20:32:25,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24526942,479000,2023,29000,market,active_or_seen
-2026-07-05T20:32:27,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23801942,355000,2023,46900,market,active_or_seen
-2026-07-05T20:32:30,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24524056,359000,2023,92630,market,active_or_seen
-2026-07-05T20:32:33,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24523710,339900,2023,99220,market,active_or_seen
-2026-07-05T20:32:36,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24523622,379900,2023,45280,market,active_or_seen
-2026-07-05T20:32:38,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24521877,339000,2023,88140,market,active_or_seen
-2026-07-05T20:32:41,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24520489,399900,2023,44420,market,active_or_seen
-2026-07-05T20:32:44,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24519881,407990,2023,66910,market,active_or_seen
-2026-07-05T20:32:47,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24519890,469990,2023,68960,market,active_or_seen
-2026-07-05T20:32:49,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24519704,379000,2023,62230,market,active_or_seen
-2026-07-05T20:32:52,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24519181,364800,2023,97100,market,active_or_seen
-2026-07-05T20:32:55,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24518580,519900,2025,3400,market,active_or_seen
-2026-07-05T20:32:58,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24518573,309900,2022,115000,market,active_or_seen
-2026-07-05T20:33:00,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24517017,489800,2024,29640,market,active_or_seen
-2026-07-05T20:33:03,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24516369,429900,2023,65000,market,active_or_seen
-2026-07-05T20:33:06,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24516135,399600,2022,65830,market,active_or_seen
-2026-07-05T20:33:09,Kia,EV6,EV6,Kia EV6,Kia Xceed,https://www.blocket.se/mobility/item/24512424,279900,2023,4510,market,active_or_seen
-2026-07-05T20:33:11,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24335343,359900,2023,85900,market,active_or_seen
-2026-07-05T20:33:14,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24511036,328000,2023,72210,market,active_or_seen
-2026-07-05T20:33:17,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24510514,409900,2023,73540,market,active_or_seen
-2026-07-05T20:33:20,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24510225,429900,2023,30200,market,active_or_seen
-2026-07-05T20:33:22,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24509840,319900,2023,109530,market,active_or_seen
-2026-07-05T20:33:25,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24508583,711400,2026,0,market,active_or_seen
-2026-07-05T20:33:28,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23455428,339000,2023,53420,market,active_or_seen
-2026-07-05T20:33:31,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24311742,418900,2023,53300,market,active_or_seen
-2026-07-05T20:33:33,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24497323,408990,2023,50140,market,active_or_seen
-2026-07-05T20:33:36,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/21766203,384800,2022,65380,market,active_or_seen
-2026-07-05T20:33:39,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24494787,622800,2026,0,market,active_or_seen
-2026-07-05T20:33:42,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24494138,379900,2023,45590,market,active_or_seen
-2026-07-05T20:33:44,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24493987,449900,2024,48850,market,active_or_seen
-2026-07-05T20:33:47,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24491814,409900,2023,44180,market,active_or_seen
+2026-07-09T01:07:03,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24669713,429900,2023,50350,market,active_or_seen
+2026-07-09T01:07:06,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24266846,424900,2022,39610,market,active_or_seen
+2026-07-09T01:07:09,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24149834,399800,2023,82970,market,active_or_seen
+2026-07-09T01:07:11,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24667094,389900,2023,86160,market,active_or_seen
+2026-07-09T01:07:14,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24466899,388900,2022,72120,market,active_or_seen
+2026-07-09T01:07:19,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24663820,379990,2022,94510,market,active_or_seen
+2026-07-09T01:07:22,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24661131,419000,2023,58180,market,active_or_seen
+2026-07-09T01:07:25,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24660587,439900,2023,53640,market,active_or_seen
+2026-07-09T01:07:28,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24659827,456985,2024,57030,market,active_or_seen
+2026-07-09T01:07:30,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/19249622,349800,2022,106890,market,active_or_seen
+2026-07-09T01:07:33,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24634321,419800,2024,94960,market,active_or_seen
+2026-07-09T01:07:36,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23492106,319800,2022,141940,market,active_or_seen
+2026-07-09T01:07:39,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24630697,501990,2024,43140,market,active_or_seen
+2026-07-09T01:07:44,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/22594779,424800,2024,83340,market,active_or_seen
+2026-07-09T01:07:47,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/22241669,368700,2022,80840,market,active_or_seen
+2026-07-09T01:07:50,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24626394,389990,2022,83350,market,active_or_seen
+2026-07-09T01:07:52,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24626074,389900,2023,80170,market,active_or_seen
+2026-07-09T01:07:55,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24245649,354700,2023,128860,market,active_or_seen
+2026-07-09T01:07:58,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24619430,479800,2024,40030,market,active_or_seen
+2026-07-09T01:08:01,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24618498,339500,2022,118540,market,active_or_seen
+2026-07-09T01:08:03,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23375650,419800,2023,61920,market,active_or_seen
+2026-07-09T01:08:06,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24614568,389800,2023,87790,market,active_or_seen
+2026-07-09T01:08:09,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23389608,378800,2023,96590,market,active_or_seen
+2026-07-09T01:08:12,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24297404,459800,2023,42080,market,active_or_seen
+2026-07-09T01:08:14,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24258600,454900,2023,52370,market,active_or_seen
+2026-07-09T01:08:17,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24608704,424800,2023,49830,market,active_or_seen
+2026-07-09T01:08:20,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24608114,444800,2022,26110,market,active_or_seen
+2026-07-09T01:08:23,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24269779,398800,2023,74730,market,active_or_seen
+2026-07-09T01:08:25,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24417008,720000,2026,650,market,active_or_seen
+2026-07-09T01:08:28,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24601089,379900,2023,97310,market,active_or_seen
+2026-07-09T01:08:31,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24599554,369900,2023,98530,market,active_or_seen
+2026-07-09T01:08:33,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23836520,479900,2024,47000,market,active_or_seen
+2026-07-09T01:08:36,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24589935,392990,2022,85860,market,active_or_seen
+2026-07-09T01:08:39,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24562132,474900,2024,39890,market,active_or_seen
+2026-07-09T01:08:42,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23536396,469000,2024,47900,market,active_or_seen
+2026-07-09T01:08:44,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24246231,399800,2023,78750,market,active_or_seen
+2026-07-09T01:08:47,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23679506,414800,2022,60060,market,active_or_seen
+2026-07-09T01:08:50,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24314789,399800,2023,89170,market,active_or_seen
+2026-07-09T01:08:52,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23901108,327400,2022,135000,market,active_or_seen
+2026-07-09T01:08:55,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23800448,468900,2024,47900,market,active_or_seen
+2026-07-09T01:08:58,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23773262,394900,2022,62330,market,active_or_seen
+2026-07-09T01:09:01,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23651467,404800,2023,83020,market,active_or_seen
+2026-07-09T01:09:03,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23615967,368900,2022,103990,market,active_or_seen
+2026-07-09T01:09:06,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512344,425990,2022,55870,market,active_or_seen
+2026-07-09T01:09:09,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512359,368990,2022,98800,market,active_or_seen
+2026-07-09T01:09:12,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512345,433990,2023,66530,market,active_or_seen
+2026-07-09T01:09:14,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24512342,450990,2024,90690,market,active_or_seen
+2026-07-09T01:09:17,Tesla,Model Y,Performance,Tesla Model Y Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24511628,379900,2023,102310,market,active_or_seen
+2026-07-09T01:09:20,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24669540,338900,2021,77990,market,active_or_seen
+2026-07-09T01:09:22,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23605851,349800,2021,78550,market,active_or_seen
+2026-07-09T01:09:25,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24474209,427800,2023,41290,market,active_or_seen
+2026-07-09T01:09:28,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24389849,324800,2021,119730,market,active_or_seen
+2026-07-09T01:09:31,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23682597,359800,2021,76650,market,active_or_seen
+2026-07-09T01:09:33,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24472758,314800,2022,136490,market,active_or_seen
+2026-07-09T01:09:36,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24667094,389900,2023,86160,market,active_or_seen
+2026-07-09T01:09:39,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24466982,359800,2023,97050,market,active_or_seen
+2026-07-09T01:09:42,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24348136,359800,2022,71450,market,active_or_seen
+2026-07-09T01:09:47,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23890133,498000,2025,29540,market,active_or_seen
+2026-07-09T01:09:50,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24466751,378800,2021,57410,market,active_or_seen
+2026-07-09T01:09:52,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24159100,404900,2024,80470,market,active_or_seen
+2026-07-09T01:09:55,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24659795,388990,2023,80420,market,active_or_seen
+2026-07-09T01:09:58,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24659790,359990,2023,113760,market,active_or_seen
+2026-07-09T01:10:01,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24483968,294800,2021,140610,market,active_or_seen
+2026-07-09T01:10:03,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24297009,417900,2024,67120,market,active_or_seen
+2026-07-09T01:10:06,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24658047,378900,2024,107710,market,active_or_seen
+2026-07-09T01:10:09,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23003601,418600,2024,66280,market,active_or_seen
+2026-07-09T01:10:12,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24657161,434800,2023,34730,market,active_or_seen
+2026-07-09T01:10:14,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24655923,359900,2023,112500,market,active_or_seen
+2026-07-09T01:10:17,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24482928,378700,2023,79430,market,active_or_seen
+2026-07-09T01:10:20,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24655641,399800,2023,52140,market,active_or_seen
+2026-07-09T01:10:22,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23239208,354800,2022,96500,market,active_or_seen
+2026-07-09T01:10:25,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24655561,354800,2024,127140,market,active_or_seen
+2026-07-09T01:10:28,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24652620,364900,2022,80660,market,active_or_seen
+2026-07-09T01:10:31,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24649919,389800,2023,61340,market,active_or_seen
+2026-07-09T01:10:33,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24649512,344800,2023,116310,market,active_or_seen
+2026-07-09T01:10:36,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23906239,334800,2022,119130,market,active_or_seen
+2026-07-09T01:10:39,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24329760,358900,2023,107720,market,active_or_seen
+2026-07-09T01:10:42,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24434124,358700,2023,98070,market,active_or_seen
+2026-07-09T01:10:44,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24128608,338900,2022,108320,market,active_or_seen
+2026-07-09T01:10:47,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24642556,369000,2021,42000,market,active_or_seen
+2026-07-09T01:10:50,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24322079,348900,2023,113880,market,active_or_seen
+2026-07-09T01:10:52,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24146680,334700,2021,101960,market,active_or_seen
+2026-07-09T01:10:55,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24639476,344900,2022,86000,market,active_or_seen
+2026-07-09T01:10:58,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23093527,384800,2022,54410,market,active_or_seen
+2026-07-09T01:11:01,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24637122,399400,2023,64150,market,active_or_seen
+2026-07-09T01:11:04,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23926336,334800,2021,93910,market,active_or_seen
+2026-07-09T01:11:06,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24634773,399500,2023,73650,market,active_or_seen
+2026-07-09T01:11:09,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24634321,419800,2024,94960,market,active_or_seen
+2026-07-09T01:11:12,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24632825,349900,2022,100400,market,active_or_seen
+2026-07-09T01:11:15,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24458733,324800,2021,105510,market,active_or_seen
+2026-07-09T01:11:17,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/22944588,314400,2023,149970,market,active_or_seen
+2026-07-09T01:11:20,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24629171,399600,2023,46180,market,active_or_seen
+2026-07-09T01:11:23,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24273995,358700,2023,101650,market,active_or_seen
+2026-07-09T01:11:25,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24627517,379900,2023,84950,market,active_or_seen
+2026-07-09T01:11:28,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24626300,394800,2023,65130,market,active_or_seen
+2026-07-09T01:11:31,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24623199,399700,2023,48500,market,active_or_seen
+2026-07-09T01:11:34,Tesla,Model Y,Long Range,Tesla Model Y Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23749229,379700,2023,78380,market,active_or_seen
+2026-07-09T01:11:37,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24669713,429900,2023,50350,market,active_or_seen
+2026-07-09T01:11:39,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24149917,294800,2021,106350,market,active_or_seen
+2026-07-09T01:11:42,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model S,https://www.blocket.se/mobility/item/24663949,380000,2016,231230,market,active_or_seen
+2026-07-09T01:11:45,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24663820,379990,2022,94510,market,active_or_seen
+2026-07-09T01:11:47,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24465706,354800,2023,65560,market,active_or_seen
+2026-07-09T01:11:50,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24660587,439900,2023,53640,market,active_or_seen
+2026-07-09T01:11:53,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24659827,456985,2024,57030,market,active_or_seen
+2026-07-09T01:11:56,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23694329,329800,2021,71610,market,active_or_seen
+2026-07-09T01:11:58,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23826045,314800,2021,91980,market,active_or_seen
+2026-07-09T01:12:01,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/18665513,328000,2021,40300,market,active_or_seen
+2026-07-09T01:12:04,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/20827816,499800,2024,57650,market,active_or_seen
+2026-07-09T01:12:07,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24322268,274900,2021,135000,market,active_or_seen
+2026-07-09T01:12:09,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/22282104,268900,2020,100770,market,active_or_seen
+2026-07-09T01:12:12,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23198628,348800,2022,65690,market,active_or_seen
+2026-07-09T01:12:15,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23466719,324800,2022,83240,market,active_or_seen
+2026-07-09T01:12:17,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24449207,328900,2022,86460,market,active_or_seen
+2026-07-09T01:12:20,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24630697,501990,2024,43140,market,active_or_seen
+2026-07-09T01:12:23,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24628260,229800,2020,148690,market,active_or_seen
+2026-07-09T01:12:26,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24622862,329000,2022,100000,market,active_or_seen
+2026-07-09T01:12:28,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24626394,389990,2022,83350,market,active_or_seen
+2026-07-09T01:12:31,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24626074,389900,2023,80170,market,active_or_seen
+2026-07-09T01:12:34,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24245649,354700,2023,128860,market,active_or_seen
+2026-07-09T01:12:36,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24620707,429900,2023,44090,market,active_or_seen
+2026-07-09T01:12:39,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24096615,534800,2024,41580,market,active_or_seen
+2026-07-09T01:12:42,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24434995,309600,2020,51810,market,active_or_seen
+2026-07-09T01:12:45,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23389608,378800,2023,96590,market,active_or_seen
+2026-07-09T01:12:47,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24611321,388900,2023,47040,market,active_or_seen
+2026-07-09T01:12:50,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/22797114,249900,2019,103680,market,active_or_seen
+2026-07-09T01:12:53,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24608870,324900,2022,74240,market,active_or_seen
+2026-07-09T01:12:56,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23631004,347900,2021,47240,market,active_or_seen
+2026-07-09T01:12:58,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24606653,279800,2021,121850,market,active_or_seen
+2026-07-09T01:13:01,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24015990,319800,2021,86600,market,active_or_seen
+2026-07-09T01:13:04,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24604797,244900,2019,146040,market,active_or_seen
+2026-07-09T01:13:07,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23995147,269800,2021,133610,market,active_or_seen
+2026-07-09T01:13:09,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23354857,248800,2019,130110,market,active_or_seen
+2026-07-09T01:13:12,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23619787,314800,2023,114180,market,active_or_seen
+2026-07-09T01:13:15,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24599554,369900,2023,98530,market,active_or_seen
+2026-07-09T01:13:18,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/23836520,479900,2024,47000,market,active_or_seen
+2026-07-09T01:13:20,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24407081,369800,2023,56970,market,active_or_seen
+2026-07-09T01:13:23,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24598910,369000,2023,44090,market,active_or_seen
+2026-07-09T01:13:26,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23033522,519800,2024,45440,market,active_or_seen
+2026-07-09T01:13:28,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model Y,https://www.blocket.se/mobility/item/24589935,392990,2022,85860,market,active_or_seen
+2026-07-09T01:13:31,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24009336,314800,2021,92940,market,active_or_seen
+2026-07-09T01:13:34,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24274653,309800,2021,100440,market,active_or_seen
+2026-07-09T01:13:37,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24412831,319800,2021,85470,market,active_or_seen
+2026-07-09T01:13:39,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24270350,259800,2020,121890,market,active_or_seen
+2026-07-09T01:13:42,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23809265,359800,2023,54050,market,active_or_seen
+2026-07-09T01:13:45,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24240283,299800,2021,112210,market,active_or_seen
+2026-07-09T01:13:47,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/24127937,369800,2022,40730,market,active_or_seen
+2026-07-09T01:13:50,Tesla,Model 3,Performance,Tesla Model 3 Performance,Tesla Model 3,https://www.blocket.se/mobility/item/23045901,234900,2019,159210,market,active_or_seen
+2026-07-09T01:13:53,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24126507,324900,2021,67360,market,active_or_seen
+2026-07-09T01:13:56,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24669540,338900,2021,77990,market,active_or_seen
+2026-07-09T01:13:59,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23605851,349800,2021,78550,market,active_or_seen
+2026-07-09T01:14:01,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24348136,359800,2022,71450,market,active_or_seen
+2026-07-09T01:14:04,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model S,https://www.blocket.se/mobility/item/24663949,380000,2016,231230,market,active_or_seen
+2026-07-09T01:14:07,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24663811,454990,2024,45190,market,active_or_seen
+2026-07-09T01:14:10,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24663808,309990,2021,100010,market,active_or_seen
+2026-07-09T01:14:12,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24663168,279800,2019,47180,market,active_or_seen
+2026-07-09T01:14:15,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/22654542,239800,2021,159160,market,active_or_seen
+2026-07-09T01:14:18,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24659784,444990,2024,52520,market,active_or_seen
+2026-07-09T01:14:20,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24659795,388990,2023,80420,market,active_or_seen
+2026-07-09T01:14:23,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24659790,359990,2023,113760,market,active_or_seen
+2026-07-09T01:14:26,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/23589517,419800,2024,69730,market,active_or_seen
+2026-07-09T01:14:29,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24658729,364800,2023,60810,market,active_or_seen
+2026-07-09T01:14:31,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/23826438,299900,2021,96970,market,active_or_seen
+2026-07-09T01:14:34,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23003601,418600,2024,66280,market,active_or_seen
+2026-07-09T01:14:37,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24655915,274900,2020,84000,market,active_or_seen
+2026-07-09T01:14:40,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24655685,347990,2023,90430,market,active_or_seen
+2026-07-09T01:14:42,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24345764,309800,2021,76530,market,active_or_seen
+2026-07-09T01:14:45,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24458867,249700,2019,97510,market,active_or_seen
+2026-07-09T01:14:48,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24651708,317990,2021,82500,market,active_or_seen
+2026-07-09T01:14:51,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/23453132,459800,2024,44610,market,active_or_seen
+2026-07-09T01:14:53,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24329760,358900,2023,107720,market,active_or_seen
+2026-07-09T01:14:56,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24452194,169000,2020,215000,market,active_or_seen
+2026-07-09T01:14:59,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24147237,314800,2021,75160,market,active_or_seen
+2026-07-09T01:15:01,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24642556,369000,2021,42000,market,active_or_seen
+2026-07-09T01:15:04,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/23883228,339900,2021,49980,market,active_or_seen
+2026-07-09T01:15:07,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24463321,279800,2021,125290,market,active_or_seen
+2026-07-09T01:15:10,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24144180,229800,2019,114270,market,active_or_seen
+2026-07-09T01:15:12,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24640622,224800,2019,145010,market,active_or_seen
+2026-07-09T01:15:15,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24639476,344900,2022,86000,market,active_or_seen
+2026-07-09T01:15:18,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24632387,284700,2021,97170,market,active_or_seen
+2026-07-09T01:15:21,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24638128,229900,2021,171920,market,active_or_seen
+2026-07-09T01:15:23,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24637122,399400,2023,64150,market,active_or_seen
+2026-07-09T01:15:26,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/22225120,274900,2021,112190,market,active_or_seen
+2026-07-09T01:15:29,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24634773,399500,2023,73650,market,active_or_seen
+2026-07-09T01:15:31,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24632825,349900,2022,100400,market,active_or_seen
+2026-07-09T01:15:34,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model X,https://www.blocket.se/mobility/item/24632359,399900,2020,136000,market,active_or_seen
+2026-07-09T01:15:37,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24629171,399600,2023,46180,market,active_or_seen
+2026-07-09T01:15:40,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24273995,358700,2023,101650,market,active_or_seen
+2026-07-09T01:15:42,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24624043,199900,2019,194500,market,active_or_seen
+2026-07-09T01:15:45,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/23059688,479800,2024,24260,market,active_or_seen
+2026-07-09T01:15:48,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/23259962,284700,2021,105520,market,active_or_seen
+2026-07-09T01:15:51,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24623199,399700,2023,48500,market,active_or_seen
+2026-07-09T01:15:53,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23749229,379700,2023,78380,market,active_or_seen
+2026-07-09T01:15:56,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24622184,189800,2019,169370,market,active_or_seen
+2026-07-09T01:15:59,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24622107,434990,2023,46490,market,active_or_seen
+2026-07-09T01:16:02,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/24622098,409990,2023,65340,market,active_or_seen
+2026-07-09T01:16:04,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model Y,https://www.blocket.se/mobility/item/23595906,309700,2021,102750,market,active_or_seen
+2026-07-09T01:16:07,Tesla,Model 3,Long Range,Tesla Model 3 Long Range,Tesla Model 3,https://www.blocket.se/mobility/item/24620306,259800,2020,79820,market,active_or_seen
+2026-07-09T01:16:10,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23797663,579900,2025,5480,market,active_or_seen
+2026-07-09T01:16:12,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23800070,579900,2026,8090,market,active_or_seen
+2026-07-09T01:16:15,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/21260414,589000,2026,5310,market,active_or_seen
+2026-07-09T01:16:18,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24249944,389900,2023,107230,market,active_or_seen
+2026-07-09T01:16:21,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24319591,428900,2024,72190,market,active_or_seen
+2026-07-09T01:16:24,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24266108,398900,2023,65480,market,active_or_seen
+2026-07-09T01:16:26,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24658377,438800,2023,51400,market,active_or_seen
+2026-07-09T01:16:29,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/18421612,569800,2025,19900,market,active_or_seen
+2026-07-09T01:16:32,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24639027,424600,2023,50870,market,active_or_seen
+2026-07-09T01:16:35,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/20454319,618900,2026,8000,market,active_or_seen
+2026-07-09T01:16:37,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24622097,412990,2024,57060,market,active_or_seen
+2026-07-09T01:16:40,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24620296,549000,2026,10140,market,active_or_seen
+2026-07-09T01:16:43,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23358765,424700,2024,46460,market,active_or_seen
+2026-07-09T01:16:46,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23726770,424700,2024,43730,market,active_or_seen
+2026-07-09T01:16:49,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23804124,394800,2024,98860,market,active_or_seen
+2026-07-09T01:16:51,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24597262,406990,2024,63940,market,active_or_seen
+2026-07-09T01:16:54,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23459681,399600,2024,69970,market,active_or_seen
+2026-07-09T01:16:57,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24416649,579900,2026,6310,market,active_or_seen
+2026-07-09T01:16:59,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24564386,424800,2024,70020,market,active_or_seen
+2026-07-09T01:17:02,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23881689,409800,2024,88790,market,active_or_seen
+2026-07-09T01:17:05,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23249033,369000,2023,106650,market,active_or_seen
+2026-07-09T01:17:08,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24530936,389000,2024,103000,market,active_or_seen
+2026-07-09T01:17:10,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/18878641,559000,2026,10110,market,active_or_seen
+2026-07-09T01:17:13,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24513134,439900,2024,55270,market,active_or_seen
+2026-07-09T01:17:16,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24512075,579900,2025,4790,market,active_or_seen
+2026-07-09T01:17:19,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24496669,539000,2025,6360,market,active_or_seen
+2026-07-09T01:17:21,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23749798,438900,2024,46350,market,active_or_seen
+2026-07-09T01:17:24,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23812406,529000,2024,34000,market,active_or_seen
+2026-07-09T01:17:27,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23999040,359800,2023,86390,market,active_or_seen
+2026-07-09T01:17:30,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23433389,325000,2024,132670,market,active_or_seen
+2026-07-09T01:17:32,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24407672,385000,2022,88670,market,active_or_seen
+2026-07-09T01:17:35,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24346627,399800,2024,104830,market,active_or_seen
+2026-07-09T01:17:38,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23783351,409900,2024,89000,market,active_or_seen
+2026-07-09T01:17:40,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24335038,460990,2024,49740,market,active_or_seen
+2026-07-09T01:17:43,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/22197277,664200,2026,0,market,active_or_seen
+2026-07-09T01:17:46,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/22588714,429000,2024,94500,market,active_or_seen
+2026-07-09T01:17:49,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24270919,418000,2023,73780,market,active_or_seen
+2026-07-09T01:17:51,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24233902,404990,2023,95570,market,active_or_seen
+2026-07-09T01:17:54,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/22418180,790295,2025,20100,market,active_or_seen
+2026-07-09T01:17:57,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/22972699,338700,2023,113590,market,active_or_seen
+2026-07-09T01:18:00,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23767668,677000,2026,0,market,active_or_seen
+2026-07-09T01:18:02,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24114565,429000,2024,67980,market,active_or_seen
+2026-07-09T01:18:05,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/22951844,649800,2026,9900,market,active_or_seen
+2026-07-09T01:18:08,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/24083028,519700,2024,31830,market,active_or_seen
+2026-07-09T01:18:11,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23411411,769900,2026,8900,market,active_or_seen
+2026-07-09T01:18:13,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23800447,589900,2026,8750,market,active_or_seen
+2026-07-09T01:18:16,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23767673,693200,2026,0,market,active_or_seen
+2026-07-09T01:18:19,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23767670,724100,2026,0,market,active_or_seen
+2026-07-09T01:18:21,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/23757562,355000,2022,111000,market,active_or_seen
+2026-07-09T01:18:24,BMW,i4,eDrive40,BMW i4 eDrive40,BMW i4,https://www.blocket.se/mobility/item/17605046,579000,2026,0,market,active_or_seen
+2026-07-09T01:18:27,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24669863,349500,2023,158410,market,active_or_seen
+2026-07-09T01:18:30,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24657183,479900,2023,72500,market,active_or_seen
+2026-07-09T01:18:32,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24657085,499800,2024,44700,market,active_or_seen
+2026-07-09T01:18:35,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/22569804,599700,2025,22540,market,active_or_seen
+2026-07-09T01:18:38,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24654037,439900,2024,93300,market,active_or_seen
+2026-07-09T01:18:41,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23411646,414800,2022,119530,market,active_or_seen
+2026-07-09T01:18:43,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24630577,539700,2024,24950,market,active_or_seen
+2026-07-09T01:18:46,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24623378,474800,2023,74300,market,active_or_seen
+2026-07-09T01:18:49,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24623295,469800,2023,74690,market,active_or_seen
+2026-07-09T01:18:52,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24622929,569500,2024,44900,market,active_or_seen
+2026-07-09T01:18:54,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24617247,439900,2024,104000,market,active_or_seen
+2026-07-09T01:18:57,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23959732,449000,2024,98980,market,active_or_seen
+2026-07-09T01:19:00,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24137295,519700,2024,48100,market,active_or_seen
+2026-07-09T01:19:02,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24591121,469900,2023,68160,market,active_or_seen
+2026-07-09T01:19:05,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23567460,479900,2022,90080,market,active_or_seen
+2026-07-09T01:19:08,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24571847,389800,2024,144250,market,active_or_seen
+2026-07-09T01:19:11,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23225126,438700,2024,107940,market,active_or_seen
+2026-07-09T01:19:13,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24271786,459800,2024,88050,market,active_or_seen
+2026-07-09T01:19:16,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23551978,479900,2023,50930,market,active_or_seen
+2026-07-09T01:19:19,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24146461,390000,2022,129100,market,active_or_seen
+2026-07-09T01:19:22,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24545071,449900,2024,100220,market,active_or_seen
+2026-07-09T01:19:24,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24507909,599700,2025,29330,market,active_or_seen
+2026-07-09T01:19:27,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24507660,349500,2024,73620,market,active_or_seen
+2026-07-09T01:19:30,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23722161,474800,2022,71820,market,active_or_seen
+2026-07-09T01:19:33,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23026526,479000,2023,59500,market,active_or_seen
+2026-07-09T01:19:36,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24494990,439900,2024,124000,market,active_or_seen
+2026-07-09T01:19:38,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24287046,544800,2024,28060,market,active_or_seen
+2026-07-09T01:19:41,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24491920,479000,2024,73620,market,active_or_seen
+2026-07-09T01:19:44,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24460571,399990,2023,119450,market,active_or_seen
+2026-07-09T01:19:47,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23846205,429700,2023,95090,market,active_or_seen
+2026-07-09T01:19:49,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24414675,483700,2024,64750,market,active_or_seen
+2026-07-09T01:19:52,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24407890,399900,2024,157510,market,active_or_seen
+2026-07-09T01:19:55,BMW,i4,M50,BMW i4 M50,BMW 123d,https://www.blocket.se/mobility/item/24203746,84999,2026,279000,market,active_or_seen
+2026-07-09T01:19:57,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23288342,529900,2023,63050,market,active_or_seen
+2026-07-09T01:20:00,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23773834,599900,2025,50100,market,active_or_seen
+2026-07-09T01:20:03,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24289336,549000,2024,55000,market,active_or_seen
+2026-07-09T01:20:06,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24279274,439500,2024,116380,market,active_or_seen
+2026-07-09T01:20:08,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24270234,630990,2025,8500,market,active_or_seen
+2026-07-09T01:20:11,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24248227,619000,2025,30100,market,active_or_seen
+2026-07-09T01:20:14,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24243104,634700,2025,6960,market,active_or_seen
+2026-07-09T01:20:17,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23640112,529800,2024,97020,market,active_or_seen
+2026-07-09T01:20:19,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24170027,529000,2023,63000,market,active_or_seen
+2026-07-09T01:20:22,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23000486,529900,2024,80200,market,active_or_seen
+2026-07-09T01:20:25,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/18872320,459000,2024,85810,market,active_or_seen
+2026-07-09T01:20:28,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/21258747,459500,2024,104000,market,active_or_seen
+2026-07-09T01:20:30,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24018918,509000,2023,76340,market,active_or_seen
+2026-07-09T01:20:33,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/24018271,469900,2023,81240,market,active_or_seen
+2026-07-09T01:20:36,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23641382,438800,2023,118740,market,active_or_seen
+2026-07-09T01:20:39,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23171106,509900,2024,59230,market,active_or_seen
+2026-07-09T01:20:41,BMW,i4,M50,BMW i4 M50,BMW i4,https://www.blocket.se/mobility/item/23910385,557990,2024,35560,market,active_or_seen
+2026-07-09T01:20:44,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/13537187,569000,2024,4530,market,active_or_seen
+2026-07-09T01:20:47,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24649785,824900,2026,0,market,active_or_seen
+2026-07-09T01:20:50,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24135178,659800,2025,9000,market,active_or_seen
+2026-07-09T01:20:52,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24623286,659800,2025,30000,market,active_or_seen
+2026-07-09T01:20:55,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24623247,729800,2024,21730,market,active_or_seen
+2026-07-09T01:20:58,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24619710,599000,2025,22270,market,active_or_seen
+2026-07-09T01:21:01,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/20280559,699900,2026,0,market,active_or_seen
+2026-07-09T01:21:03,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23784536,579800,2024,44920,market,active_or_seen
+2026-07-09T01:21:06,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23355434,619800,2025,30990,market,active_or_seen
+2026-07-09T01:21:09,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24507607,814400,2026,0,market,active_or_seen
+2026-07-09T01:21:11,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24495299,529800,2025,62090,market,active_or_seen
+2026-07-09T01:21:14,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19221207,797200,2025,0,market,active_or_seen
+2026-07-09T01:21:17,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23407358,709900,2026,8900,market,active_or_seen
+2026-07-09T01:21:20,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/24169245,579900,2024,38660,market,active_or_seen
+2026-07-09T01:21:22,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/22346061,659800,2025,26000,market,active_or_seen
+2026-07-09T01:21:25,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19257965,794000,2025,0,market,active_or_seen
+2026-07-09T01:21:28,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23947376,719000,2025,18920,market,active_or_seen
+2026-07-09T01:21:30,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23774752,549500,2024,19120,market,active_or_seen
+2026-07-09T01:21:33,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23767660,814400,2026,0,market,active_or_seen
+2026-07-09T01:21:36,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23647549,545990,2025,34710,market,active_or_seen
+2026-07-09T01:21:39,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23471088,668000,2025,15000,market,active_or_seen
+2026-07-09T01:21:41,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23413107,803900,2026,0,market,active_or_seen
+2026-07-09T01:21:44,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23153695,599800,2024,27300,market,active_or_seen
+2026-07-09T01:21:47,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/23150236,551990,2025,40340,market,active_or_seen
+2026-07-09T01:21:50,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/22993190,561990,2025,23970,market,active_or_seen
+2026-07-09T01:21:52,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19575854,689000,2025,0,market,active_or_seen
+2026-07-09T01:21:55,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/18233238,720200,2026,0,market,active_or_seen
+2026-07-09T01:21:58,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19221200,816200,2025,0,market,active_or_seen
+2026-07-09T01:22:01,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/18233236,720200,2025,0,market,active_or_seen
+2026-07-09T01:22:03,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/15480752,559500,2025,11800,market,active_or_seen
+2026-07-09T01:22:06,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/18055461,537000,2025,49500,market,active_or_seen
+2026-07-09T01:22:09,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19549346,820900,2026,0,market,active_or_seen
+2026-07-09T01:22:12,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/20964819,569000,2026,0,market,active_or_seen
+2026-07-09T01:22:14,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19014964,766900,2026,0,market,active_or_seen
+2026-07-09T01:22:17,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19688550,813400,2026,0,market,active_or_seen
+2026-07-09T01:22:20,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/13383951,699900,2025,0,market,active_or_seen
+2026-07-09T01:22:23,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19257973,797200,2025,0,market,active_or_seen
+2026-07-09T01:22:25,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/19257956,779000,2026,0,market,active_or_seen
+2026-07-09T01:22:28,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/15096101,795000,2025,8500,market,active_or_seen
+2026-07-09T01:22:31,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/14395281,779900,2024,0,market,active_or_seen
+2026-07-09T01:22:33,BMW,i5,eDrive40,BMW i5 eDrive40,BMW i5,https://www.blocket.se/mobility/item/13987513,609900,2024,24400,market,active_or_seen
+2026-07-09T01:22:36,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24656286,803400,2026,0,market,active_or_seen
+2026-07-09T01:22:39,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24649785,824900,2026,0,market,active_or_seen
+2026-07-09T01:22:42,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24649708,873000,2026,0,market,active_or_seen
+2026-07-09T01:22:44,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/20747179,688800,2026,16000,market,active_or_seen
+2026-07-09T01:22:47,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/20791876,699900,2026,16500,market,active_or_seen
+2026-07-09T01:22:50,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23431559,648700,2024,21720,market,active_or_seen
+2026-07-09T01:22:52,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/20454315,878600,2026,12000,market,active_or_seen
+2026-07-09T01:22:55,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23915384,789500,2026,0,market,active_or_seen
+2026-07-09T01:22:58,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23624461,659800,2025,27250,market,active_or_seen
+2026-07-09T01:23:01,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24007141,738700,2026,9000,market,active_or_seen
+2026-07-09T01:23:04,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24007098,768700,2026,5150,market,active_or_seen
+2026-07-09T01:23:06,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24507607,814400,2026,0,market,active_or_seen
+2026-07-09T01:23:09,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24443080,698700,2026,4320,market,active_or_seen
+2026-07-09T01:23:12,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23912574,698700,2026,4400,market,active_or_seen
+2026-07-09T01:23:14,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23804520,698700,2026,8000,market,active_or_seen
+2026-07-09T01:23:17,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23358160,689000,2026,5000,market,active_or_seen
+2026-07-09T01:23:20,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24301765,832900,2026,0,market,active_or_seen
+2026-07-09T01:23:23,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24301762,832900,2026,0,market,active_or_seen
+2026-07-09T01:23:25,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24301769,832900,2026,0,market,active_or_seen
+2026-07-09T01:23:28,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23640138,804400,2026,9900,market,active_or_seen
+2026-07-09T01:23:31,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/22538212,789800,2026,8900,market,active_or_seen
+2026-07-09T01:23:34,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/24113981,645990,2025,28800,market,active_or_seen
+2026-07-09T01:23:36,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/22250770,739500,2025,24900,market,active_or_seen
+2026-07-09T01:23:39,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/18558570,743200,2026,0,market,active_or_seen
+2026-07-09T01:23:42,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23944722,648990,2025,19100,market,active_or_seen
+2026-07-09T01:23:45,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/20982975,729000,2026,5000,market,active_or_seen
+2026-07-09T01:23:47,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23811455,640990,2025,36620,market,active_or_seen
+2026-07-09T01:23:50,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23798591,834900,2026,5000,market,active_or_seen
+2026-07-09T01:23:53,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23719771,648990,2025,23070,market,active_or_seen
+2026-07-09T01:23:56,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23647553,640990,2025,31590,market,active_or_seen
+2026-07-09T01:23:58,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23623819,799000,2026,0,market,active_or_seen
+2026-07-09T01:24:01,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23594171,793900,2026,0,market,active_or_seen
+2026-07-09T01:24:04,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/23463958,647990,2025,32160,market,active_or_seen
+2026-07-09T01:24:07,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/19996141,719000,2026,5900,market,active_or_seen
+2026-07-09T01:24:09,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/22940065,709000,2026,4500,market,active_or_seen
+2026-07-09T01:24:12,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/17918165,619000,2024,12090,market,active_or_seen
+2026-07-09T01:24:15,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/13474345,729500,2024,10,market,active_or_seen
+2026-07-09T01:24:18,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/19164409,766900,2026,0,market,active_or_seen
+2026-07-09T01:24:20,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/20964819,803400,2026,0,market,active_or_seen
+2026-07-09T01:24:23,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/19014964,766900,2026,0,market,active_or_seen
+2026-07-09T01:24:26,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/18721228,819900,2026,15000,market,active_or_seen
+2026-07-09T01:24:28,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/14709044,779900,2025,0,market,active_or_seen
+2026-07-09T01:24:31,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/14417872,779900,2025,0,market,active_or_seen
+2026-07-09T01:24:34,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/14340660,779900,2025,0,market,active_or_seen
+2026-07-09T01:24:37,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/13385399,769900,2024,0,market,active_or_seen
+2026-07-09T01:24:39,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/13385415,859900,2025,0,market,active_or_seen
+2026-07-09T01:24:42,BMW,i5,xDrive40,BMW i5 xDrive40,BMW i5,https://www.blocket.se/mobility/item/13384562,759900,2025,0,market,active_or_seen
+2026-07-09T01:24:45,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/24649785,824900,2026,0,market,active_or_seen
+2026-07-09T01:24:48,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/24168258,679900,2024,38860,market,active_or_seen
+2026-07-09T01:24:50,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/23964576,749800,2024,1310,market,active_or_seen
+2026-07-09T01:24:53,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/24507607,814400,2026,0,market,active_or_seen
+2026-07-09T01:24:56,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/21144282,662900,2024,54360,market,active_or_seen
+2026-07-09T01:24:59,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/24482774,878700,2025,28540,market,active_or_seen
+2026-07-09T01:25:01,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/24000253,729500,2024,12590,market,active_or_seen
+2026-07-09T01:25:04,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/17787770,789000,2024,12400,market,active_or_seen
+2026-07-09T01:25:07,BMW,i5,M60,BMW i5 M60,BMW i5,https://www.blocket.se/mobility/item/19014964,766900,2026,0,market,active_or_seen
+2026-07-09T01:25:10,Audi,e-tron GT,GT,Audi e-tron GT,Audi e-tron GT,https://www.blocket.se/mobility/item/23625305,500000,2022,68000,market,active_or_seen
+2026-07-09T01:25:12,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23633832,539900,2022,84020,market,active_or_seen
+2026-07-09T01:25:15,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24647314,2027920,2027,0,market,active_or_seen
+2026-07-09T01:25:18,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24635123,1099000,2027,0,market,active_or_seen
+2026-07-09T01:25:21,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24344404,579800,2022,76130,market,active_or_seen
+2026-07-09T01:25:23,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24177442,599900,2022,94500,market,active_or_seen
+2026-07-09T01:25:26,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22384221,559900,2022,59800,market,active_or_seen
+2026-07-09T01:25:29,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23816365,569800,2022,82990,market,active_or_seen
+2026-07-09T01:25:31,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/20815621,619800,2022,21770,market,active_or_seen
+2026-07-09T01:25:34,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13547204,1860000,2025,68000,market,active_or_seen
+2026-07-09T01:25:37,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/20481307,579700,2022,84990,market,active_or_seen
+2026-07-09T01:25:40,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24348069,669000,2023,22360,market,active_or_seen
+2026-07-09T01:25:42,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22975481,699000,2022,58560,market,active_or_seen
+2026-07-09T01:25:45,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/19277176,679000,2022,88790,market,active_or_seen
+2026-07-09T01:25:48,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23908010,599000,2022,68000,market,active_or_seen
+2026-07-09T01:25:50,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24317567,1099000,2026,0,market,active_or_seen
+2026-07-09T01:25:53,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24268743,519900,2022,103740,market,active_or_seen
+2026-07-09T01:25:56,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/21819590,749000,2023,43000,market,active_or_seen
+2026-07-09T01:25:59,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/21983562,659000,2022,40000,market,active_or_seen
+2026-07-09T01:26:01,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23268616,599900,2023,78390,market,active_or_seen
+2026-07-09T01:26:04,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23815683,500000,2027,0,market,active_or_seen
+2026-07-09T01:26:07,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23810657,500000,2026,0,market,active_or_seen
+2026-07-09T01:26:10,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23807028,500000,2026,0,market,active_or_seen
+2026-07-09T01:26:12,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23806958,500000,2026,0,market,active_or_seen
+2026-07-09T01:26:15,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13358326,629000,2023,64010,market,active_or_seen
+2026-07-09T01:26:18,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23753910,525000,2022,103000,market,active_or_seen
+2026-07-09T01:26:21,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/23355040,1164400,2026,0,market,active_or_seen
+2026-07-09T01:26:23,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14101937,699000,2022,66000,market,active_or_seen
+2026-07-09T01:26:26,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22493857,1099000,2024,4290,market,active_or_seen
+2026-07-09T01:26:29,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14673832,899000,2022,6100,market,active_or_seen
+2026-07-09T01:26:32,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/20259037,629900,2023,56000,market,active_or_seen
+2026-07-09T01:26:34,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/17761016,659900,2022,56990,market,active_or_seen
+2026-07-09T01:26:37,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/15623993,1312000,2026,0,market,active_or_seen
+2026-07-09T01:26:40,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/15085368,640000,2022,34000,market,active_or_seen
+2026-07-09T01:26:43,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14533835,1460000,2025,0,market,active_or_seen
+2026-07-09T01:26:45,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14384860,1258900,2026,0,market,active_or_seen
+2026-07-09T01:26:48,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14373799,849900,2022,39950,market,active_or_seen
+2026-07-09T01:26:51,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13990164,649000,2022,49500,market,active_or_seen
+2026-07-09T01:26:54,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13952724,639000,2022,70000,market,active_or_seen
+2026-07-09T01:26:56,Audi,e-tron GT,GT,Audi e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/13732536,499900,2022,99800,market,active_or_seen
+2026-07-09T01:26:59,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24647314,2027920,2027,0,market,active_or_seen
+2026-07-09T01:27:02,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/24177442,599900,2022,94500,market,active_or_seen
+2026-07-09T01:27:05,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22384221,559900,2022,59800,market,active_or_seen
+2026-07-09T01:27:07,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22975481,699000,2022,58560,market,active_or_seen
+2026-07-09T01:27:10,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/19277176,679000,2022,88790,market,active_or_seen
+2026-07-09T01:27:13,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/21819590,749000,2023,43000,market,active_or_seen
+2026-07-09T01:27:16,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14101937,699000,2022,66000,market,active_or_seen
+2026-07-09T01:27:18,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/22493857,1099000,2024,4290,market,active_or_seen
+2026-07-09T01:27:21,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14673832,899000,2022,6100,market,active_or_seen
+2026-07-09T01:27:24,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/15085368,640000,2022,34000,market,active_or_seen
+2026-07-09T01:27:27,Audi,RS e-tron GT,RS,Audi RS e-tron GT,Audi E-Tron,https://www.blocket.se/mobility/item/14373799,849900,2022,39950,market,active_or_seen
+2026-07-09T01:27:29,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23415005,459900,2023,32120,market,active_or_seen
+2026-07-09T01:27:32,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/22948236,555300,2025,12680,market,active_or_seen
+2026-07-09T01:27:35,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24294505,409900,2022,82050,market,active_or_seen
+2026-07-09T01:27:38,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24663859,339900,2023,91850,market,active_or_seen
+2026-07-09T01:27:40,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/22239981,569900,2025,12300,market,active_or_seen
+2026-07-09T01:27:43,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/22375878,479900,2025,15050,market,active_or_seen
+2026-07-09T01:27:46,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24663292,369800,2023,59150,market,active_or_seen
+2026-07-09T01:27:49,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24439698,399600,2023,67860,market,active_or_seen
+2026-07-09T01:27:51,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24269347,399700,2023,59010,market,active_or_seen
+2026-07-09T01:27:54,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24662131,539800,2025,29100,market,active_or_seen
+2026-07-09T01:27:57,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24268861,334900,2023,79980,market,active_or_seen
+2026-07-09T01:28:00,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24660745,419000,2023,44710,market,active_or_seen
+2026-07-09T01:28:02,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24659856,439900,2023,57670,market,active_or_seen
+2026-07-09T01:28:05,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24659820,359990,2023,47740,market,active_or_seen
+2026-07-09T01:28:08,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24658438,711400,2026,8500,market,active_or_seen
+2026-07-09T01:28:11,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24655606,379900,2023,61970,market,active_or_seen
+2026-07-09T01:28:13,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24651241,279800,2022,121500,market,active_or_seen
+2026-07-09T01:28:16,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24650591,519900,2025,27370,market,active_or_seen
+2026-07-09T01:28:19,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24649750,408700,2023,55000,market,active_or_seen
+2026-07-09T01:28:21,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24648538,399900,2023,60010,market,active_or_seen
+2026-07-09T01:28:24,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24647665,457990,2023,48740,market,active_or_seen
+2026-07-09T01:28:27,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24646793,389000,2023,40450,market,active_or_seen
+2026-07-09T01:28:30,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24646054,539900,2025,7430,market,active_or_seen
+2026-07-09T01:28:32,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24645922,539900,2025,26580,market,active_or_seen
+2026-07-09T01:28:35,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24645797,539900,2025,12560,market,active_or_seen
+2026-07-09T01:28:38,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24639349,369900,2023,43560,market,active_or_seen
+2026-07-09T01:28:41,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23405507,449900,2024,77750,market,active_or_seen
+2026-07-09T01:28:43,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24316354,399700,2023,75820,market,active_or_seen
+2026-07-09T01:28:46,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23771962,444800,2023,58830,market,active_or_seen
+2026-07-09T01:28:49,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24635342,289800,2022,121150,market,active_or_seen
+2026-07-09T01:28:52,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24634844,449000,2023,53190,market,active_or_seen
+2026-07-09T01:28:54,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24271893,269900,2022,208000,market,active_or_seen
+2026-07-09T01:28:57,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24632399,359800,2023,51730,market,active_or_seen
+2026-07-09T01:29:00,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23438304,419900,2022,43870,market,active_or_seen
+2026-07-09T01:29:03,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24628045,319000,2022,93000,market,active_or_seen
+2026-07-09T01:29:05,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23241448,358900,2023,77500,market,active_or_seen
+2026-07-09T01:29:08,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24626889,449900,2023,41660,market,active_or_seen
+2026-07-09T01:29:11,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23599179,368700,2022,62920,market,active_or_seen
+2026-07-09T01:29:13,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24618100,599900,2026,0,market,active_or_seen
+2026-07-09T01:29:16,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24617753,569900,2025,25380,market,active_or_seen
+2026-07-09T01:29:19,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23411876,299700,2022,100510,market,active_or_seen
+2026-07-09T01:29:22,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23411695,372300,2023,47550,market,active_or_seen
+2026-07-09T01:29:25,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23003887,569300,2026,8030,market,active_or_seen
+2026-07-09T01:29:27,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24610653,385000,2022,49000,market,active_or_seen
+2026-07-09T01:29:30,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24609073,369800,2023,48730,market,active_or_seen
+2026-07-09T01:29:33,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23961152,329700,2023,117260,market,active_or_seen
+2026-07-09T01:29:36,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24604484,399000,2022,75310,market,active_or_seen
+2026-07-09T01:29:38,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24599578,359500,2022,103370,market,active_or_seen
+2026-07-09T01:29:41,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/24597264,473990,2023,26170,market,active_or_seen
+2026-07-09T01:29:44,Kia,EV6,EV6,Kia EV6,Kia EV6,https://www.blocket.se/mobility/item/23920956,419900,2023,65850,market,active_or_seen
+2026-07-09T01:29:47,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/20027445,799900,2026,0,market,active_or_seen
+2026-07-09T01:29:49,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/20042286,819800,2026,0,market,active_or_seen
+2026-07-09T01:29:52,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/19269509,814900,2026,0,market,active_or_seen
+2026-07-09T01:29:55,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24662893,719000,2024,24940,market,active_or_seen
+2026-07-09T01:29:57,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24662050,849900,2026,0,market,active_or_seen
+2026-07-09T01:30:00,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627105,889900,2026,0,market,active_or_seen
+2026-07-09T01:30:03,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627100,889900,2026,0,market,active_or_seen
+2026-07-09T01:30:06,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627099,889900,2026,0,market,active_or_seen
+2026-07-09T01:30:08,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627107,889900,2026,0,market,active_or_seen
+2026-07-09T01:30:11,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627093,909900,2026,0,market,active_or_seen
+2026-07-09T01:30:14,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627090,909900,2026,0,market,active_or_seen
+2026-07-09T01:30:17,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627072,889900,2026,0,market,active_or_seen
+2026-07-09T01:30:19,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24661149,689900,2024,63900,market,active_or_seen
+2026-07-09T01:30:22,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24634175,739000,2025,27860,market,active_or_seen
+2026-07-09T01:30:25,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23624477,649800,2024,89920,market,active_or_seen
+2026-07-09T01:30:27,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24631937,699900,2024,33920,market,active_or_seen
+2026-07-09T01:30:30,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24627078,679000,2023,78740,market,active_or_seen
+2026-07-09T01:30:33,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24310926,659800,2024,71790,market,active_or_seen
+2026-07-09T01:30:36,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/21785644,899900,2026,0,market,active_or_seen
+2026-07-09T01:30:38,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24620873,684800,2024,54810,market,active_or_seen
+2026-07-09T01:30:41,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23958440,789900,2026,5000,market,active_or_seen
+2026-07-09T01:30:44,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24602954,819900,2026,0,market,active_or_seen
+2026-07-09T01:30:46,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24602942,819900,2026,0,market,active_or_seen
+2026-07-09T01:30:49,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24602947,819900,2026,0,market,active_or_seen
+2026-07-09T01:30:52,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24602950,819900,2026,0,market,active_or_seen
+2026-07-09T01:30:55,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24601459,721990,2024,22720,market,active_or_seen
+2026-07-09T01:30:57,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23414174,689800,2025,65130,market,active_or_seen
+2026-07-09T01:31:00,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/20723173,649800,2024,81840,market,active_or_seen
+2026-07-09T01:31:03,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24593424,755990,2025,31820,market,active_or_seen
+2026-07-09T01:31:06,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24268988,659800,2024,84240,market,active_or_seen
+2026-07-09T01:31:08,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24433944,619900,2025,13200,market,active_or_seen
+2026-07-09T01:31:11,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23441190,629800,2024,93940,market,active_or_seen
+2026-07-09T01:31:14,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23785685,719000,2025,50710,market,active_or_seen
+2026-07-09T01:31:16,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23110567,679000,2024,69750,market,active_or_seen
+2026-07-09T01:31:19,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24519674,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:22,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23386459,819800,2026,0,market,active_or_seen
+2026-07-09T01:31:25,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/14734075,799900,2026,10,market,active_or_seen
+2026-07-09T01:31:27,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/24436740,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:30,Kia,EV9,EV9,Kia EV9,Kia EV3,https://www.blocket.se/mobility/item/19269784,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:33,Kia,EV9,EV9,Kia EV9,Kia EV3,https://www.blocket.se/mobility/item/18898707,469900,2026,0,market,active_or_seen
+2026-07-09T01:31:36,Kia,EV9,EV9,Kia EV9,Kia EV3,https://www.blocket.se/mobility/item/19269745,499900,2026,0,market,active_or_seen
+2026-07-09T01:31:38,Kia,EV9,EV9,Kia EV9,Kia EV3,https://www.blocket.se/mobility/item/20118219,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:41,Kia,EV9,EV9,Kia EV9,Kia EV3,https://www.blocket.se/mobility/item/19269778,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:44,Kia,EV9,EV9,Kia EV9,Kia EV3,https://www.blocket.se/mobility/item/19269763,539900,2026,0,market,active_or_seen
+2026-07-09T01:31:46,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/23797883,659800,2024,79330,market,active_or_seen
+2026-07-09T01:31:49,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/21209521,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:52,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/21135936,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:55,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/21109383,799900,2026,0,market,active_or_seen
+2026-07-09T01:31:57,Kia,EV9,EV9,Kia EV9,Kia EV9,https://www.blocket.se/mobility/item/20824180,799900,2026,0,market,active_or_seen
+2026-07-09T01:32:00,Kia,EV9,EV9,Kia EV9,Kia EV3,https://www.blocket.se/mobility/item/24494179,573000,2027,0,market,active_or_seen
+2026-07-09T01:32:03,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24669125,384500,2023,62940,market,active_or_seen
+2026-07-09T01:32:06,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 9,https://www.blocket.se/mobility/item/22979406,776952,2027,0,market,active_or_seen
+2026-07-09T01:32:08,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 9,https://www.blocket.se/mobility/item/22979185,794552,2027,0,market,active_or_seen
+2026-07-09T01:32:11,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 9,https://www.blocket.se/mobility/item/24343408,794900,2027,0,market,active_or_seen
+2026-07-09T01:32:14,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/23770379,158900,2018,72760,market,active_or_seen
+2026-07-09T01:32:17,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24337645,169900,2019,73200,market,active_or_seen
+2026-07-09T01:32:20,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24660167,129900,2019,153360,market,active_or_seen
+2026-07-09T01:32:22,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24657475,399700,2024,55620,market,active_or_seen
+2026-07-09T01:32:25,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/23433430,194900,2020,66720,market,active_or_seen
+2026-07-09T01:32:28,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/22486309,399700,2023,39580,market,active_or_seen
+2026-07-09T01:32:30,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24635113,377990,2023,59200,market,active_or_seen
+2026-07-09T01:32:33,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/20318379,384500,2027,0,market,active_or_seen
+2026-07-09T01:32:36,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/23620127,188900,2020,73850,market,active_or_seen
+2026-07-09T01:32:39,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/18343904,219700,2020,32650,market,active_or_seen
+2026-07-09T01:32:42,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24626507,139900,2017,125780,market,active_or_seen
+2026-07-09T01:32:44,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/20441456,598000,2024,2840,market,active_or_seen
+2026-07-09T01:32:47,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24623354,309800,2022,100980,market,active_or_seen
+2026-07-09T01:32:50,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24623297,596900,2027,0,market,active_or_seen
+2026-07-09T01:32:52,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24623072,379900,2023,67900,market,active_or_seen
+2026-07-09T01:32:55,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24622815,576900,2027,0,market,active_or_seen
+2026-07-09T01:32:58,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24622782,369900,2023,55460,market,active_or_seen
+2026-07-09T01:33:01,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24622769,749900,2025,9900,market,active_or_seen
+2026-07-09T01:33:03,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/23805579,169900,2018,36710,market,active_or_seen
+2026-07-09T01:33:06,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24612927,129900,2017,132500,market,active_or_seen
+2026-07-09T01:33:09,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23428756,299900,2022,98170,market,active_or_seen
+2026-07-09T01:33:11,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/17749575,398900,2024,39350,market,active_or_seen
+2026-07-09T01:33:14,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/18216644,399900,2024,55530,market,active_or_seen
+2026-07-09T01:33:17,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/23620309,159800,2018,90850,market,active_or_seen
+2026-07-09T01:33:20,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/22027887,354900,2022,48680,market,active_or_seen
+2026-07-09T01:33:22,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23697492,324800,2023,118440,market,active_or_seen
+2026-07-09T01:33:25,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24604171,374900,2023,80610,market,active_or_seen
+2026-07-09T01:33:28,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24602061,369500,2023,41000,market,active_or_seen
+2026-07-09T01:33:31,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24601519,184700,2020,60600,market,active_or_seen
+2026-07-09T01:33:33,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23351711,359800,2022,70210,market,active_or_seen
+2026-07-09T01:33:36,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23915839,404800,2023,36530,market,active_or_seen
+2026-07-09T01:33:39,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23273187,329000,2023,33340,market,active_or_seen
+2026-07-09T01:33:41,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/21621567,429700,2024,24140,market,active_or_seen
+2026-07-09T01:33:44,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23062740,399900,2023,43430,market,active_or_seen
+2026-07-09T01:33:47,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/18361552,199000,2020,67900,market,active_or_seen
+2026-07-09T01:33:50,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24541787,104900,2020,236900,market,active_or_seen
+2026-07-09T01:33:52,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23997580,429900,2023,33870,market,active_or_seen
+2026-07-09T01:33:55,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24536350,169900,2019,99000,market,active_or_seen
+2026-07-09T01:33:58,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24525853,399800,2024,39200,market,active_or_seen
+2026-07-09T01:34:01,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/23916516,159800,2020,116070,market,active_or_seen
+2026-07-09T01:34:03,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24521945,349800,2023,93070,market,active_or_seen
+2026-07-09T01:34:06,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24351885,299800,2022,108210,market,active_or_seen
+2026-07-09T01:34:09,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24515480,611800,2026,0,market,active_or_seen
+2026-07-09T01:34:12,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/21990500,139800,2018,110890,market,active_or_seen
+2026-07-09T01:34:14,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24245602,398900,2023,49410,market,active_or_seen
+2026-07-09T01:34:17,Hyundai,IONIQ 5,IONIQ 5,Hyundai IONIQ 5,Hyundai IONIQ,https://www.blocket.se/mobility/item/24344125,189900,2020,78030,market,active_or_seen
+2026-07-09T01:34:20,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/24660167,129900,2019,153360,market,active_or_seen
+2026-07-09T01:34:22,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/23433430,194900,2020,66720,market,active_or_seen
+2026-07-09T01:34:25,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 6,https://www.blocket.se/mobility/item/20006380,419800,2023,19000,market,active_or_seen
+2026-07-09T01:34:28,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/22486309,399700,2023,39580,market,active_or_seen
+2026-07-09T01:34:31,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24635113,377990,2023,59200,market,active_or_seen
+2026-07-09T01:34:33,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/23620127,188900,2020,73850,market,active_or_seen
+2026-07-09T01:34:36,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/18343904,219700,2020,32650,market,active_or_seen
+2026-07-09T01:34:39,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/24626507,139900,2017,125780,market,active_or_seen
+2026-07-09T01:34:42,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24623297,596900,2027,0,market,active_or_seen
+2026-07-09T01:34:44,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24622815,576900,2027,0,market,active_or_seen
+2026-07-09T01:34:47,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24622769,749900,2025,9900,market,active_or_seen
+2026-07-09T01:34:50,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23428756,299900,2022,98170,market,active_or_seen
+2026-07-09T01:34:52,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/23620309,159800,2018,90850,market,active_or_seen
+2026-07-09T01:34:55,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23697492,324800,2023,118440,market,active_or_seen
+2026-07-09T01:34:58,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 9,https://www.blocket.se/mobility/item/24602860,129900,2026,0,market,active_or_seen
+2026-07-09T01:35:01,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 9,https://www.blocket.se/mobility/item/24602858,787800,2026,0,market,active_or_seen
+2026-07-09T01:35:03,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 9,https://www.blocket.se/mobility/item/24601791,814600,2026,0,market,active_or_seen
+2026-07-09T01:35:06,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23351711,359800,2022,70210,market,active_or_seen
+2026-07-09T01:35:09,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 6,https://www.blocket.se/mobility/item/23797880,339800,2023,110490,market,active_or_seen
+2026-07-09T01:35:12,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/24541787,104900,2020,236900,market,active_or_seen
+2026-07-09T01:35:14,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/23916516,159800,2020,116070,market,active_or_seen
+2026-07-09T01:35:17,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24521945,349800,2023,93070,market,active_or_seen
+2026-07-09T01:35:20,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24351885,299800,2022,108210,market,active_or_seen
+2026-07-09T01:35:23,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/21990500,139800,2018,110890,market,active_or_seen
+2026-07-09T01:35:25,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/22443201,356000,2024,72200,market,active_or_seen
+2026-07-09T01:35:28,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24486173,349800,2023,98160,market,active_or_seen
+2026-07-09T01:35:31,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24483599,359800,2022,44060,market,active_or_seen
+2026-07-09T01:35:33,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/23044217,144900,2017,103610,market,active_or_seen
+2026-07-09T01:35:36,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/18323961,329800,2022,99920,market,active_or_seen
+2026-07-09T01:35:39,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24446520,419990,2024,21540,market,active_or_seen
+2026-07-09T01:35:42,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/24445010,159900,2018,69000,market,active_or_seen
+2026-07-09T01:35:44,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/24440846,209500,2020,75120,market,active_or_seen
+2026-07-09T01:35:47,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 6,https://www.blocket.se/mobility/item/24090980,349500,2023,63840,market,active_or_seen
+2026-07-09T01:35:50,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 9,https://www.blocket.se/mobility/item/24424650,749900,2026,4380,market,active_or_seen
+2026-07-09T01:35:52,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 6,https://www.blocket.se/mobility/item/15124066,399900,2023,25400,market,active_or_seen
+2026-07-09T01:35:55,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ,https://www.blocket.se/mobility/item/24324340,185990,2020,75100,market,active_or_seen
+2026-07-09T01:35:58,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24298429,523500,2027,0,market,active_or_seen
+2026-07-09T01:36:01,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 6,https://www.blocket.se/mobility/item/24274401,399800,2023,51820,market,active_or_seen
+2026-07-09T01:36:03,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 6,https://www.blocket.se/mobility/item/24271930,359900,2023,78130,market,active_or_seen
+2026-07-09T01:36:06,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 6,https://www.blocket.se/mobility/item/23386964,129900,2025,10,market,active_or_seen
+2026-07-09T01:36:09,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/19647461,409800,2024,40980,market,active_or_seen
+2026-07-09T01:36:12,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24117520,576900,2027,0,market,active_or_seen
+2026-07-09T01:36:14,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24117523,576900,2027,0,market,active_or_seen
+2026-07-09T01:36:17,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24117516,530900,2027,0,market,active_or_seen
+2026-07-09T01:36:20,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24117508,576900,2027,0,market,active_or_seen
+2026-07-09T01:36:23,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23543408,706700,2026,10,market,active_or_seen
+2026-07-09T01:36:25,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/24028976,129900,2027,0,market,active_or_seen
+2026-07-09T01:36:28,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23999120,488900,2027,0,market,active_or_seen
+2026-07-09T01:36:31,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23993341,129900,2026,0,market,active_or_seen
+2026-07-09T01:36:34,Hyundai,IONIQ 6,IONIQ 6,Hyundai IONIQ 6,Hyundai IONIQ 5,https://www.blocket.se/mobility/item/23993229,129900,2027,0,market,active_or_seen
+2026-07-09T01:36:36,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24550595,599900,2026,1100,market,active_or_seen
+2026-07-09T01:36:39,Volvo,EX30,EX30,Volvo EX30,Volvo XC40,https://www.blocket.se/mobility/item/24662822,299900,2023,86750,market,active_or_seen
+2026-07-09T01:36:42,Volvo,EX30,EX30,Volvo EX30,Volvo EC40,https://www.blocket.se/mobility/item/24661015,569400,2026,7900,market,active_or_seen
+2026-07-09T01:36:45,Volvo,EX30,EX30,Volvo EX30,Volvo XC40,https://www.blocket.se/mobility/item/24660963,429500,2024,52480,market,active_or_seen
+2026-07-09T01:36:47,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24659382,339500,2024,69100,market,active_or_seen
+2026-07-09T01:36:50,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24298621,369800,2024,34410,market,active_or_seen
+2026-07-09T01:36:53,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24165814,379900,2025,19070,market,active_or_seen
+2026-07-09T01:36:55,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/23006249,359900,2024,44090,market,active_or_seen
+2026-07-09T01:36:58,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24648694,366000,2025,25500,market,active_or_seen
+2026-07-09T01:37:01,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24648547,344500,2024,70530,market,active_or_seen
+2026-07-09T01:37:04,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24507765,349000,2025,16390,market,active_or_seen
+2026-07-09T01:37:06,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24644309,449900,2026,2500,market,active_or_seen
+2026-07-09T01:37:09,Volvo,EX30,EX30,Volvo EX30,Volvo V60,https://www.blocket.se/mobility/item/20896411,569900,2026,0,market,active_or_seen
+2026-07-09T01:37:12,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24632679,339000,2024,34590,market,active_or_seen
+2026-07-09T01:37:15,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24629584,379900,2024,44960,market,active_or_seen
+2026-07-09T01:37:17,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24629505,379800,2024,44880,market,active_or_seen
+2026-07-09T01:37:20,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24627478,359900,2025,26170,market,active_or_seen
+2026-07-09T01:37:23,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24627425,349900,2024,73110,market,active_or_seen
+2026-07-09T01:37:26,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24626038,429000,2025,32510,market,active_or_seen
+2026-07-09T01:37:28,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/20511731,599900,2027,0,market,active_or_seen
+2026-07-09T01:37:31,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/19245814,599900,2027,0,market,active_or_seen
+2026-07-09T01:37:34,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/22161073,599900,2027,0,market,active_or_seen
+2026-07-09T01:37:37,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24600818,526900,2027,0,market,active_or_seen
+2026-07-09T01:37:39,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24599270,526900,2027,0,market,active_or_seen
+2026-07-09T01:37:42,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24597216,349000,2024,32620,market,active_or_seen
+2026-07-09T01:37:45,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/23587064,399900,2025,85060,market,active_or_seen
+2026-07-09T01:37:48,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24595100,499900,2026,11400,market,active_or_seen
+2026-07-09T01:37:50,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24595011,369000,2024,8440,market,active_or_seen
+2026-07-09T01:37:53,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24594798,424900,2026,2720,market,active_or_seen
+2026-07-09T01:37:56,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24592473,374900,2025,28310,market,active_or_seen
+2026-07-09T01:37:58,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24590309,479000,2026,7960,market,active_or_seen
+2026-07-09T01:38:01,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24590125,523900,2027,0,market,active_or_seen
+2026-07-09T01:38:04,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24588120,319900,2024,26970,market,active_or_seen
+2026-07-09T01:38:07,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24588110,329900,2024,46080,market,active_or_seen
+2026-07-09T01:38:09,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/15800458,599900,2026,10000,market,active_or_seen
+2026-07-09T01:38:12,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24004702,318800,2024,28610,market,active_or_seen
+2026-07-09T01:38:15,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24563554,369900,2025,7180,market,active_or_seen
+2026-07-09T01:38:18,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/23780259,409800,2024,19430,market,active_or_seen
+2026-07-09T01:38:20,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24560905,419800,2025,26550,market,active_or_seen
+2026-07-09T01:38:23,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/19426382,519900,2026,0,market,active_or_seen
+2026-07-09T01:38:26,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24535912,339000,2024,38030,market,active_or_seen
+2026-07-09T01:38:29,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/22427594,529900,2026,3050,market,active_or_seen
+2026-07-09T01:38:31,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/15705578,599900,2026,10000,market,active_or_seen
+2026-07-09T01:38:34,Volvo,EX30,EX30,Volvo EX30,Volvo XC40,https://www.blocket.se/mobility/item/24522796,334900,2023,51540,market,active_or_seen
+2026-07-09T01:38:37,Volvo,EX30,EX30,Volvo EX30,Volvo EX30 Cross country,https://www.blocket.se/mobility/item/24521636,589000,2025,5440,market,active_or_seen
+2026-07-09T01:38:40,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24521415,359000,2025,29720,market,active_or_seen
+2026-07-09T01:38:42,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24521123,399900,2025,41240,market,active_or_seen
+2026-07-09T01:38:45,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24521026,419000,2025,26990,market,active_or_seen
+2026-07-09T01:38:48,Volvo,EX30,EX30,Volvo EX30,Volvo EX30,https://www.blocket.se/mobility/item/24520867,379900,2025,38220,market,active_or_seen
+2026-07-09T01:38:50,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24459905,479800,2025,43560,market,active_or_seen
+2026-07-09T01:38:53,Volvo,EX40,EX40,Volvo EX40,Cupra Tavascan,https://www.blocket.se/mobility/item/24663685,479800,2026,0,market,active_or_seen
+2026-07-09T01:38:56,Volvo,EX40,EX40,Volvo EX40,Volvo XC40,https://www.blocket.se/mobility/item/24662822,299900,2023,86750,market,active_or_seen
+2026-07-09T01:38:59,Volvo,EX40,EX40,Volvo EX40,Volvo EC40,https://www.blocket.se/mobility/item/24661015,569400,2026,7900,market,active_or_seen
+2026-07-09T01:39:01,Volvo,EX40,EX40,Volvo EX40,Volvo XC40,https://www.blocket.se/mobility/item/24660963,429500,2024,52480,market,active_or_seen
+2026-07-09T01:39:04,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24659500,479000,2026,12890,market,active_or_seen
+2026-07-09T01:39:07,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24657024,549500,2026,6860,market,active_or_seen
+2026-07-09T01:39:10,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24655333,546900,2027,0,market,active_or_seen
+2026-07-09T01:39:12,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24655266,546900,2027,0,market,active_or_seen
+2026-07-09T01:39:15,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24655154,546900,2027,0,market,active_or_seen
+2026-07-09T01:39:18,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24655082,546900,2027,0,market,active_or_seen
+2026-07-09T01:39:21,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24654121,546900,2027,0,market,active_or_seen
+2026-07-09T01:39:23,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24652361,449000,2025,27710,market,active_or_seen
+2026-07-09T01:39:26,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/23824982,617900,2027,0,market,active_or_seen
+2026-07-09T01:39:29,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24507140,429900,2025,52740,market,active_or_seen
+2026-07-09T01:39:32,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24648679,469000,2025,30030,market,active_or_seen
+2026-07-09T01:39:34,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24648480,469800,2025,56620,market,active_or_seen
+2026-07-09T01:39:37,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24647103,439900,2025,23920,market,active_or_seen
+2026-07-09T01:39:40,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24647072,439900,2025,49900,market,active_or_seen
+2026-07-09T01:39:42,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24646910,569900,2026,12350,market,active_or_seen
+2026-07-09T01:39:45,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24645355,439000,2025,41720,market,active_or_seen
+2026-07-09T01:39:48,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24067604,524900,2025,24010,market,active_or_seen
+2026-07-09T01:39:51,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/23809920,429900,2025,42750,market,active_or_seen
+2026-07-09T01:39:53,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24645161,579000,2026,1900,market,active_or_seen
+2026-07-09T01:39:56,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24284721,529800,2025,25220,market,active_or_seen
+2026-07-09T01:39:59,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24238874,459800,2025,32520,market,active_or_seen
+2026-07-09T01:40:01,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/23944421,489900,2025,34690,market,active_or_seen
+2026-07-09T01:40:04,Volvo,EX40,EX40,Volvo EX40,Volvo V60,https://www.blocket.se/mobility/item/20896411,569900,2026,0,market,active_or_seen
+2026-07-09T01:40:07,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24634025,479900,2026,15430,market,active_or_seen
+2026-07-09T01:40:10,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24633495,434900,2025,18550,market,active_or_seen
+2026-07-09T01:40:13,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24633492,479000,2025,50250,market,active_or_seen
+2026-07-09T01:40:15,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24169068,499900,2025,23360,market,active_or_seen
+2026-07-09T01:40:18,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24495893,479800,2027,0,market,active_or_seen
+2026-07-09T01:40:21,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629811,494500,2026,13090,market,active_or_seen
+2026-07-09T01:40:23,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629587,469900,2025,26180,market,active_or_seen
+2026-07-09T01:40:26,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629590,559900,2026,3620,market,active_or_seen
+2026-07-09T01:40:29,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629576,429900,2025,40380,market,active_or_seen
+2026-07-09T01:40:32,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629575,469900,2025,24120,market,active_or_seen
+2026-07-09T01:40:34,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629573,469900,2025,66150,market,active_or_seen
+2026-07-09T01:40:37,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629568,449900,2025,43880,market,active_or_seen
+2026-07-09T01:40:40,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24629565,479900,2025,44340,market,active_or_seen
+2026-07-09T01:40:43,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24628159,534800,2025,10520,market,active_or_seen
+2026-07-09T01:40:45,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24627458,469900,2025,48010,market,active_or_seen
+2026-07-09T01:40:48,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24627416,429900,2025,46420,market,active_or_seen
+2026-07-09T01:40:51,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24627414,499900,2025,47780,market,active_or_seen
+2026-07-09T01:40:53,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24627402,429900,2025,48000,market,active_or_seen
+2026-07-09T01:40:56,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24627401,529900,2025,23270,market,active_or_seen
+2026-07-09T01:40:59,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/22652258,534900,2026,1610,market,active_or_seen
+2026-07-09T01:41:02,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/22163736,574900,2026,0,market,active_or_seen
+2026-07-09T01:41:04,Volvo,EX40,EX40,Volvo EX40,Volvo EX40,https://www.blocket.se/mobility/item/24618121,579800,2026,6520,market,active_or_seen
+2026-07-09T01:41:07,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24654365,849900,2025,15000,market,active_or_seen
+2026-07-09T01:41:10,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23202916,629800,2023,59840,market,active_or_seen
+2026-07-09T01:41:12,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23716212,429800,2023,82070,market,active_or_seen
+2026-07-09T01:41:15,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/20574431,499000,2023,40550,market,active_or_seen
+2026-07-09T01:41:18,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24117141,489700,2023,18810,market,active_or_seen
+2026-07-09T01:41:21,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24639124,699000,2023,44000,market,active_or_seen
+2026-07-09T01:41:23,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24016977,559900,2025,29640,market,active_or_seen
+2026-07-09T01:41:26,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23997883,499800,2024,28840,market,active_or_seen
+2026-07-09T01:41:29,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24437906,659800,2024,18660,market,active_or_seen
+2026-07-09T01:41:32,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24600990,449800,2022,81380,market,active_or_seen
+2026-07-09T01:41:35,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/23420899,684000,2024,7160,market,active_or_seen
+2026-07-09T01:41:37,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23046664,549000,2025,10620,market,active_or_seen
+2026-07-09T01:41:40,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/18987228,699900,2025,9000,market,active_or_seen
+2026-07-09T01:41:43,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/20123032,434800,2022,85110,market,active_or_seen
+2026-07-09T01:41:46,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24568882,579000,2025,19420,market,active_or_seen
+2026-07-09T01:41:48,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24566003,449800,2023,104020,market,active_or_seen
+2026-07-09T01:41:51,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/17598000,468900,2023,24340,market,active_or_seen
+2026-07-09T01:41:54,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23589903,479000,2023,62120,market,active_or_seen
+2026-07-09T01:41:57,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/20459583,619000,2024,23530,market,active_or_seen
+2026-07-09T01:41:59,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz E,https://www.blocket.se/mobility/item/24524385,339900,2023,106240,market,active_or_seen
+2026-07-09T01:42:02,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24521559,399000,2023,112290,market,active_or_seen
+2026-07-09T01:42:05,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/23944867,619900,2023,21410,market,active_or_seen
+2026-07-09T01:42:07,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23274677,679800,2023,50910,market,active_or_seen
+2026-07-09T01:42:10,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/13506862,419800,2022,67650,market,active_or_seen
+2026-07-09T01:42:13,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24495172,689000,2023,49590,market,active_or_seen
+2026-07-09T01:42:16,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/21461723,709000,2023,17840,market,active_or_seen
+2026-07-09T01:42:18,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/23915137,689900,2023,24970,market,active_or_seen
+2026-07-09T01:42:21,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23802476,659800,2023,86040,market,active_or_seen
+2026-07-09T01:42:24,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz E,https://www.blocket.se/mobility/item/23784741,119000,2010,158560,market,active_or_seen
+2026-07-09T01:42:27,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23959198,598000,2024,20240,market,active_or_seen
+2026-07-09T01:42:29,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24439172,585000,2023,93980,market,active_or_seen
+2026-07-09T01:42:32,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/23169935,739900,2023,21290,market,active_or_seen
+2026-07-09T01:42:35,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/19665042,684700,2024,7150,market,active_or_seen
+2026-07-09T01:42:38,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24098311,575000,2023,23770,market,active_or_seen
+2026-07-09T01:42:40,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24432302,699700,2023,29330,market,active_or_seen
+2026-07-09T01:42:43,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23427923,409900,2023,143020,market,active_or_seen
+2026-07-09T01:42:46,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24335595,449000,2023,48550,market,active_or_seen
+2026-07-09T01:42:49,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24324330,411990,2022,72230,market,active_or_seen
+2026-07-09T01:42:51,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/18846735,489000,2023,32700,market,active_or_seen
+2026-07-09T01:42:54,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24320406,669000,2023,17240,market,active_or_seen
+2026-07-09T01:42:57,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24320177,449000,2023,37780,market,active_or_seen
+2026-07-09T01:42:59,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24319710,539000,2024,32920,market,active_or_seen
+2026-07-09T01:43:02,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24313614,429000,2022,65200,market,active_or_seen
+2026-07-09T01:43:05,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/23645173,689000,2024,21800,market,active_or_seen
+2026-07-09T01:43:08,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/18824616,739000,2024,12710,market,active_or_seen
+2026-07-09T01:43:10,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/24300092,829000,2023,20000,market,active_or_seen
+2026-07-09T01:43:13,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/24297427,679000,2024,23400,market,active_or_seen
+2026-07-09T01:43:16,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/23533387,604000,2025,4590,market,active_or_seen
+2026-07-09T01:43:19,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE,https://www.blocket.se/mobility/item/20801026,469000,2023,26240,market,active_or_seen
+2026-07-09T01:43:21,Mercedes-Benz,EQE,EQE,Mercedes EQE,Mercedes-Benz EQE SUV,https://www.blocket.se/mobility/item/20154597,689000,2024,15000,market,active_or_seen
+2026-07-09T01:43:24,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/20555078,589800,2022,71090,market,active_or_seen
+2026-07-09T01:43:27,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/24621639,1231000,2026,0,market,active_or_seen
+2026-07-09T01:43:30,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS SUV,https://www.blocket.se/mobility/item/23537198,809900,2023,92400,market,active_or_seen
+2026-07-09T01:43:32,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23377114,599000,2022,41600,market,active_or_seen
+2026-07-09T01:43:35,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/24616180,779900,2023,6110,market,active_or_seen
+2026-07-09T01:43:38,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23421192,929000,2023,4530,market,active_or_seen
+2026-07-09T01:43:41,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/24588945,799900,2025,10970,market,active_or_seen
+2026-07-09T01:43:43,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS SUV,https://www.blocket.se/mobility/item/23059172,829000,2023,102200,market,active_or_seen
+2026-07-09T01:43:46,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23821327,959800,2023,22300,market,active_or_seen
+2026-07-09T01:43:49,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS SUV,https://www.blocket.se/mobility/item/24018504,895000,2024,37000,market,active_or_seen
+2026-07-09T01:43:52,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/14167049,799000,2023,18200,market,active_or_seen
+2026-07-09T01:43:54,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/24339849,859000,2025,4560,market,active_or_seen
+2026-07-09T01:43:57,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/24336092,879000,2023,6870,market,active_or_seen
+2026-07-09T01:44:00,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/24259813,1232200,2026,0,market,active_or_seen
+2026-07-09T01:44:03,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/21732341,599000,2022,35260,market,active_or_seen
+2026-07-09T01:44:05,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/20596611,569000,2022,89000,market,active_or_seen
+2026-07-09T01:44:08,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/22965249,859900,2022,5200,market,active_or_seen
+2026-07-09T01:44:11,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23480508,679900,2022,99400,market,active_or_seen
+2026-07-09T01:44:14,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS SUV,https://www.blocket.se/mobility/item/23963083,899000,2023,60520,market,active_or_seen
+2026-07-09T01:44:16,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23959716,990800,2026,0,market,active_or_seen
+2026-07-09T01:44:19,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS SUV,https://www.blocket.se/mobility/item/23939308,1149000,2025,10300,market,active_or_seen
+2026-07-09T01:44:22,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/21645314,589000,2022,74000,market,active_or_seen
+2026-07-09T01:44:24,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/21674168,895000,2023,23620,market,active_or_seen
+2026-07-09T01:44:27,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS-Klass,https://www.blocket.se/mobility/item/23588135,995000,2023,24870,market,active_or_seen
+2026-07-09T01:44:30,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/22563618,899900,2023,42060,market,active_or_seen
+2026-07-09T01:44:33,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/14172746,995000,2022,31800,market,active_or_seen
+2026-07-09T01:44:35,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23281294,849900,2025,2950,market,active_or_seen
+2026-07-09T01:44:38,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23024889,971000,2026,0,market,active_or_seen
+2026-07-09T01:44:41,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/23023731,978000,2027,0,market,active_or_seen
+2026-07-09T01:44:44,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/22996140,1281000,2026,0,market,active_or_seen
+2026-07-09T01:44:46,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/22625003,1040800,2026,0,market,active_or_seen
+2026-07-09T01:44:49,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/22589924,1076500,2026,0,market,active_or_seen
+2026-07-09T01:44:52,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/22430568,978000,2027,0,market,active_or_seen
+2026-07-09T01:44:55,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/22174134,2045000,2024,31000,market,active_or_seen
+2026-07-09T01:44:57,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS SUV,https://www.blocket.se/mobility/item/20454743,1199000,2024,7500,market,active_or_seen
+2026-07-09T01:45:00,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS SUV,https://www.blocket.se/mobility/item/20485972,1099000,2024,34000,market,active_or_seen
+2026-07-09T01:45:03,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/20171949,589000,2022,79000,market,active_or_seen
+2026-07-09T01:45:06,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/19209696,995000,2023,80100,market,active_or_seen
+2026-07-09T01:45:08,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/19173313,1562600,2026,0,market,active_or_seen
+2026-07-09T01:45:11,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/18641518,1562600,2026,0,market,active_or_seen
+2026-07-09T01:45:14,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/18266743,1189700,2025,0,market,active_or_seen
+2026-07-09T01:45:17,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/17301180,1661250,2024,0,market,active_or_seen
+2026-07-09T01:45:19,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/15195843,1098800,2025,10,market,active_or_seen
+2026-07-09T01:45:22,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/14903088,739900,2022,89980,market,active_or_seen
+2026-07-09T01:45:25,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/14865407,1082900,2025,10,market,active_or_seen
+2026-07-09T01:45:28,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/14688165,799900,2022,44980,market,active_or_seen
+2026-07-09T01:45:31,Mercedes-Benz,EQS,EQS,Mercedes EQS,Mercedes-Benz EQS,https://www.blocket.se/mobility/item/14308463,729900,2022,109980,market,active_or_seen
+2026-07-09T01:45:33,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23415005,459900,2023,32120,market,active_or_seen
+2026-07-09T01:45:36,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/22948236,555300,2025,12680,market,active_or_seen
+2026-07-09T01:45:39,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24294505,409900,2022,82050,market,active_or_seen
+2026-07-09T01:45:41,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/22239981,569900,2025,12300,market,active_or_seen
+2026-07-09T01:45:44,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24439698,399600,2023,67860,market,active_or_seen
+2026-07-09T01:45:47,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24662131,539800,2025,29100,market,active_or_seen
+2026-07-09T01:45:50,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24660745,419000,2023,44710,market,active_or_seen
+2026-07-09T01:45:52,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24658438,711400,2026,8500,market,active_or_seen
+2026-07-09T01:45:55,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24649750,408700,2023,55000,market,active_or_seen
+2026-07-09T01:45:58,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24647665,457990,2023,48740,market,active_or_seen
+2026-07-09T01:46:01,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23405507,449900,2024,77750,market,active_or_seen
+2026-07-09T01:46:03,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24316354,399700,2023,75820,market,active_or_seen
+2026-07-09T01:46:06,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23771962,444800,2023,58830,market,active_or_seen
+2026-07-09T01:46:09,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24634844,449000,2023,53190,market,active_or_seen
+2026-07-09T01:46:12,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24271893,269900,2022,208000,market,active_or_seen
+2026-07-09T01:46:14,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23438304,419900,2022,43870,market,active_or_seen
+2026-07-09T01:46:17,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24618100,599900,2026,0,market,active_or_seen
+2026-07-09T01:46:20,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24617753,569900,2025,25380,market,active_or_seen
+2026-07-09T01:46:23,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23003887,569300,2026,8030,market,active_or_seen
+2026-07-09T01:46:25,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24610653,385000,2022,49000,market,active_or_seen
+2026-07-09T01:46:28,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24604484,399000,2022,75310,market,active_or_seen
+2026-07-09T01:46:31,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24599578,359500,2022,103370,market,active_or_seen
+2026-07-09T01:46:33,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24597264,473990,2023,26170,market,active_or_seen
+2026-07-09T01:46:36,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23920956,419900,2023,65850,market,active_or_seen
+2026-07-09T01:46:39,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/22592324,599900,2026,0,market,active_or_seen
+2026-07-09T01:46:42,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24590343,711400,2026,0,market,active_or_seen
+2026-07-09T01:46:44,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/22771818,429800,2023,88300,market,active_or_seen
+2026-07-09T01:46:47,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24482731,559000,2025,6000,market,active_or_seen
+2026-07-09T01:46:50,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23373877,318800,2022,145400,market,active_or_seen
+2026-07-09T01:46:53,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24543401,399900,2022,62330,market,active_or_seen
+2026-07-09T01:46:55,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24540517,358900,2022,101110,market,active_or_seen
+2026-07-09T01:46:58,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23996725,329800,2022,130260,market,active_or_seen
+2026-07-09T01:47:01,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24354333,339800,2022,119670,market,active_or_seen
+2026-07-09T01:47:04,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/22809128,389900,2023,89000,market,active_or_seen
+2026-07-09T01:47:06,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/22772799,569300,2026,6850,market,active_or_seen
+2026-07-09T01:47:09,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24526942,479000,2023,29000,market,active_or_seen
+2026-07-09T01:47:12,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24519890,467990,2023,68960,market,active_or_seen
+2026-07-09T01:47:15,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24519181,364800,2023,97100,market,active_or_seen
+2026-07-09T01:47:17,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24516135,399600,2022,65830,market,active_or_seen
+2026-07-09T01:47:20,Kia,EV6,GT,Kia EV6 GT,Kia Xceed,https://www.blocket.se/mobility/item/24512424,279900,2023,4510,market,active_or_seen
+2026-07-09T01:47:23,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24510514,409900,2023,73540,market,active_or_seen
+2026-07-09T01:47:26,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24508583,711400,2026,0,market,active_or_seen
+2026-07-09T01:47:28,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/21766203,384800,2022,65380,market,active_or_seen
+2026-07-09T01:47:31,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24494787,622800,2026,0,market,active_or_seen
+2026-07-09T01:47:34,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24489155,329000,2023,130380,market,active_or_seen
+2026-07-09T01:47:36,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24486048,409000,2022,45960,market,active_or_seen
+2026-07-09T01:47:39,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24480985,359900,2023,115980,market,active_or_seen
+2026-07-09T01:47:42,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/24470671,574900,2026,6350,market,active_or_seen
+2026-07-09T01:47:45,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23167530,359000,2022,75920,market,active_or_seen
+2026-07-09T01:47:48,Kia,EV6,GT,Kia EV6 GT,Kia EV6,https://www.blocket.se/mobility/item/23598684,324700,2023,147170,market,active_or_seen

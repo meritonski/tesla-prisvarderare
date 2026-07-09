@@ -1,81 +1,20 @@
 import asyncio
 import csv
+import json
 import re
+
+from pathlib import Path
 from datetime import datetime
 from urllib.parse import urlencode, urljoin, urlparse
 
 from playwright.async_api import async_playwright
 
-
 BASE_URL = "https://www.blocket.se/annonser/hela_sverige/fordon/bilar"
 
-SEARCHES = [
-    {
-        "make": "Tesla",
-        "model": "Model Y",
-        "variant": "Performance",
-        "display_name": "Tesla Model Y Performance",
-        "query": "Tesla Model Y Performance",
-        "required_terms": ["tesla", "model y"],
-    },
-    {
-        "make": "Tesla",
-        "model": "Model Y",
-        "variant": "Long Range",
-        "display_name": "Tesla Model Y Long Range",
-        "query": "Tesla Model Y Long Range",
-        "required_terms": ["tesla", "model y"],
-    },
-    {
-        "make": "Audi",
-        "model": "RS e-tron GT",
-        "variant": "RS",
-        "display_name": "Audi RS e-tron GT",
-        "query": "Audi RS e-tron GT",
-        "required_terms": ["audi", "e-tron", "gt"],
-    },
-    {
-        "make": "Audi",
-        "model": "e-tron GT",
-        "variant": "GT",
-        "display_name": "Audi e-tron GT",
-        "query": "Audi e-tron GT",
-        "required_terms": ["audi", "e-tron", "gt"],
-    },
-    {
-        "make": "Porsche",
-        "model": "Taycan",
-        "variant": "Taycan",
-        "display_name": "Porsche Taycan",
-        "query": "Porsche Taycan",
-        "required_terms": ["porsche", "taycan"],
-    },
-    {
-        "make": "BMW",
-        "model": "i4",
-        "variant": "i4",
-        "display_name": "BMW i4",
-        "query": "BMW i4",
-        "required_terms": ["bmw", "i4"],
-    },
-    {
-        "make": "Polestar",
-        "model": "2",
-        "variant": "Polestar 2",
-        "display_name": "Polestar 2",
-        "query": "Polestar 2",
-        "required_terms": ["polestar"],
-    },
-    {
-        "make": "Kia",
-        "model": "EV6",
-        "variant": "EV6",
-        "display_name": "Kia EV6",
-        "query": "Kia EV6",
-        "required_terms": ["kia", "ev6"],
-    },
-]
+CARS_FILE = Path("config/cars.json")
 
+with open(CARS_FILE, encoding="utf-8") as f:
+    SEARCHES = json.load(f)
 OUTPUT_FILE = "ev_market_database.csv"
 DEBUG_LINKS_FILE = "candidate_links_debug.csv"
 
