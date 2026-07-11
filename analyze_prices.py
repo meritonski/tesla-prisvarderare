@@ -32,7 +32,7 @@ df = df.drop_duplicates(subset=["display_name", "year", "price_sek", "mileage_km
 # Ta bort extrema prisavvikelser per biltyp när gruppen är tillräckligt stor
 cleaned_groups = []
 
-for display_name, group in df.groupby("display_name"):
+for display_name, year, group in df.groupby("display_name", "year"):
     group = group.copy()
 
     if len(group) >= 8:

@@ -44,6 +44,18 @@
     ]
   },
   {
+    "make": "Tesla",
+    "model": "Model S",
+    "variant": "Plaid",
+    "display_name": "Tesla Model S Plaid",
+    "query": "Tesla Model S Plaid",
+    "required_terms": [
+      "tesla",
+      "model s",
+      "plaid"
+    ]
+  },
+  {
     "make": "BMW",
     "model": "i4",
     "variant": "eDrive40",
@@ -123,199 +135,14 @@
     ]
   },
   {
-    "make": "Porsche",
-    "model": "Taycan",
-    "variant": "Base",
-    "display_name": "Porsche Taycan",
-    "query": "Porsche Taycan",
-    "required_terms": [
-      "porsche",
-      "taycan"
-    ]
-  },
-  {
-    "make": "Porsche",
-    "model": "Taycan",
-    "variant": "4S",
-    "display_name": "Porsche Taycan 4S",
-    "query": "Porsche Taycan 4S",
-    "required_terms": [
-      "porsche",
-      "taycan"
-    ]
-  },
-  {
     "make": "Kia",
     "model": "EV6",
-    "variant": "EV6",
-    "display_name": "Kia EV6",
-    "query": "Kia EV6",
+    "variant": "GT",
+    "display_name": "Kia EV6 GT",
+    "query": "Kia EV6 GT",
     "required_terms": [
       "kia",
       "ev6"
     ]
-  },
-  {
-    "make": "Kia",
-    "model": "EV9",
-    "variant": "EV9",
-    "display_name": "Kia EV9",
-    "query": "Kia EV9",
-    "required_terms": [
-      "kia",
-      "ev9"
-    ]
-  },
-  {
-    "make": "Hyundai",
-    "model": "IONIQ 5",
-    "variant": "IONIQ 5",
-    "display_name": "Hyundai IONIQ 5",
-    "query": "Hyundai IONIQ 5",
-    "required_terms": [
-      "hyundai",
-      "ioniq"
-    ]
-  },
-  {
-    "make": "Hyundai",
-    "model": "IONIQ 6",
-    "variant": "IONIQ 6",
-    "display_name": "Hyundai IONIQ 6",
-    "query": "Hyundai IONIQ 6",
-    "required_terms": [
-      "hyundai",
-      "ioniq"
-    ]
-  },
-  {
-    "make": "Polestar",
-    "model": "2",
-    "variant": "Polestar 2",
-    "display_name": "Polestar 2",
-    "query": "Polestar 2",
-    "required_terms": [
-      "polestar"
-    ]
-  },
-  {
-    "make": "Polestar",
-    "model": "3",
-    "variant": "Polestar 3",
-    "display_name": "Polestar 3",
-    "query": "Polestar 3",
-    "required_terms": [
-      "polestar"
-    ]
-  },
-  {
-    "make": "Volvo",
-    "model": "EX30",
-    "variant": "EX30",
-    "display_name": "Volvo EX30",
-    "query": "Volvo EX30",
-    "required_terms": [
-      "volvo",
-      "ex30"
-    ]
-  },
-  {
-    "make": "Volvo",
-    "model": "EX40",
-    "variant": "EX40",
-    "display_name": "Volvo EX40",
-    "query": "Volvo EX40",
-    "required_terms": [
-      "volvo",
-      "ex40"
-    ]
-  },
-  {
-    "make": "Mercedes-Benz",
-    "model": "EQE",
-    "variant": "EQE",
-    "display_name": "Mercedes EQE",
-    "query": "Mercedes EQE",
-    "required_terms": [
-      "mercedes",
-      "eqe"
-    ]
-  },
-  {
-    "make": "Mercedes-Benz",
-    "model": "EQS",
-    "variant": "EQS",
-    "display_name": "Mercedes EQS",
-    "query": "Mercedes EQS",
-    "required_terms": [
-      "mercedes",
-      "eqs"
-    ]
-  },
-{
-  "make": "Porsche",
-  "model": "Taycan",
-  "variant": "GTS",
-  "display_name": "Porsche Taycan GTS",
-  "query": "Porsche Taycan GTS",
-  "required_terms": [
-    "porsche",
-    "taycan"
-  ]
-},
-{
-  "make": "Porsche",
-  "model": "Taycan",
-  "variant": "Turbo",
-  "display_name": "Porsche Taycan Turbo",
-  "query": "Porsche Taycan Turbo",
-  "required_terms": [
-    "porsche",
-    "taycan"
-  ]
-},
-{
-  "make": "Porsche",
-  "model": "Taycan",
-  "variant": "Turbo S",
-  "display_name": "Porsche Taycan Turbo S",
-  "query": "Porsche Taycan Turbo S",
-  "required_terms": [
-    "porsche",
-    "taycan"
-  ]
-},
-{
-  "make": "Porsche",
-  "model": "Taycan Cross Turismo",
-  "variant": "Cross Turismo",
-  "display_name": "Porsche Taycan Cross Turismo",
-  "query": "Porsche Taycan Cross Turismo",
-  "required_terms": [
-    "porsche",
-    "taycan"
-  ]
-},
-{
-  "make": "Porsche",
-  "model": "Taycan Sport Turismo",
-  "variant": "Sport Turismo",
-  "display_name": "Porsche Taycan Sport Turismo",
-  "query": "Porsche Taycan Sport Turismo",
-  "required_terms": [
-    "porsche",
-    "taycan"
-  ]
-},
-{
-  "make": "Kia",
-  "model": "EV6",
-  "variant": "GT",
-  "display_name": "Kia EV6 GT",
-  "query": "Kia EV6 GT",
-  "required_terms": [
-    "kia",
-    "ev6"
-  ]
-}
-] 
+  }
+]
